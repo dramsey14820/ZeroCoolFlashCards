@@ -1,0 +1,1072 @@
+{
+  "id": "norsk",
+  "title": "Norsk",
+  "cards": [
+    {
+      "id": "card_1",
+      "front": "En oppskrift",
+      "back": "A recipe"
+    },
+    {
+      "id": "card_2",
+      "front": "Resept",
+      "back": "Prescription"
+    },
+    {
+      "id": "card_3",
+      "front": "Kino",
+      "back": "Theater"
+    },
+    {
+      "id": "card_4",
+      "front": "Sp\u00f8rsm\u00e5l",
+      "back": "Question"
+    },
+    {
+      "id": "card_5",
+      "front": "Sammen",
+      "back": "Together"
+    },
+    {
+      "id": "card_6",
+      "front": "Forslag",
+      "back": "Suggestion"
+    },
+    {
+      "id": "card_7",
+      "front": "Lage",
+      "back": "Make"
+    },
+    {
+      "id": "card_8",
+      "front": "Middag",
+      "back": "Dinner"
+    },
+    {
+      "id": "card_9",
+      "front": "Frokost",
+      "back": "Breakfast"
+    },
+    {
+      "id": "card_10",
+      "front": "Lunsj",
+      "back": "Lunch"
+    },
+    {
+      "id": "card_11",
+      "front": "Sulten",
+      "back": "Hungry"
+    },
+    {
+      "id": "card_12",
+      "front": "T\u00f8rst",
+      "back": "Thirsty"
+    },
+    {
+      "id": "card_13",
+      "front": "Svar",
+      "back": "Answer"
+    },
+    {
+      "id": "card_14",
+      "front": "Hva betyr",
+      "back": "What means?"
+    },
+    {
+      "id": "card_15",
+      "front": "Gjerne",
+      "back": "Gladly"
+    },
+    {
+      "id": "card_16",
+      "front": "Alt",
+      "back": "Everything"
+    },
+    {
+      "id": "card_17",
+      "front": "Butikker",
+      "back": "Stores"
+    },
+    {
+      "id": "card_18",
+      "front": "Et skjerf",
+      "back": "A scarf"
+    },
+    {
+      "id": "card_19",
+      "front": "Et bilde",
+      "back": "An image"
+    },
+    {
+      "id": "card_20",
+      "front": "Et rundstykke",
+      "back": "A roll"
+    },
+    {
+      "id": "card_21",
+      "front": "Penger",
+      "back": "Money"
+    },
+    {
+      "id": "card_22",
+      "front": "Kald",
+      "back": "Cold"
+    },
+    {
+      "id": "card_23",
+      "front": "Ingenting",
+      "back": "Nothing"
+    },
+    {
+      "id": "card_24",
+      "front": "Tom",
+      "back": "Empty"
+    },
+    {
+      "id": "card_25",
+      "front": "Au pair",
+      "back": "A young foreign person, typically a woman, who helps with housework or child care in exchange for room and board"
+    },
+    {
+      "id": "card_26",
+      "front": "Fint",
+      "back": "Fine"
+    },
+    {
+      "id": "card_27",
+      "front": "Optimistisk",
+      "back": "Optimistic"
+    },
+    {
+      "id": "card_28",
+      "front": "Overalt",
+      "back": "Everywhere"
+    },
+    {
+      "id": "card_29",
+      "front": "Ost",
+      "back": "Cheese"
+    },
+    {
+      "id": "card_30",
+      "front": "N\u00e5",
+      "back": "Now"
+    },
+    {
+      "id": "card_31",
+      "front": "N\u00e5r",
+      "back": "When"
+    },
+    {
+      "id": "card_32",
+      "front": "Nydelig",
+      "back": "Lovely"
+    },
+    {
+      "id": "card_33",
+      "front": "Passe barn",
+      "back": "Look after children"
+    },
+    {
+      "id": "card_34",
+      "front": "Privat",
+      "back": "Private"
+    },
+    {
+      "id": "card_35",
+      "front": "Pusse tennene",
+      "back": "Brush ones teeth"
+    },
+    {
+      "id": "card_36",
+      "front": "Pr\u00f8ver",
+      "back": "Try"
+    },
+    {
+      "id": "card_37",
+      "front": "Sent",
+      "back": "Late"
+    },
+    {
+      "id": "card_38",
+      "front": "Betaler",
+      "back": "Pay"
+    },
+    {
+      "id": "card_39",
+      "front": "Sier",
+      "back": "Says"
+    },
+    {
+      "id": "card_40",
+      "front": "har snakket",
+      "back": "has talked"
+    },
+    {
+      "id": "card_41",
+      "front": "Kort",
+      "back": "Short"
+    },
+    {
+      "id": "card_42",
+      "front": "Trenger",
+      "back": "need"
+    },
+    {
+      "id": "card_43",
+      "front": "tomorrow",
+      "back": "i morgen"
+    },
+    {
+      "id": "card_44",
+      "front": "Mange",
+      "back": "many"
+    },
+    {
+      "id": "card_45",
+      "front": "Ting",
+      "back": "things"
+    },
+    {
+      "id": "card_46",
+      "front": "Et br\u00f8d",
+      "back": "bread"
+    },
+    {
+      "id": "card_47",
+      "front": "En familie",
+      "back": "a family"
+    },
+    {
+      "id": "card_48",
+      "front": "Sjokolade",
+      "back": "chocolate"
+    },
+    {
+      "id": "card_49",
+      "front": "En bok",
+      "back": "a book"
+    },
+    {
+      "id": "card_50",
+      "front": "Dusjer",
+      "back": "shower"
+    },
+    {
+      "id": "card_51",
+      "front": "Sovner",
+      "back": "falling asleep"
+    },
+    {
+      "id": "card_52",
+      "front": "Sover",
+      "back": "sleeps"
+    },
+    {
+      "id": "card_53",
+      "front": "Han lager mat",
+      "back": "he cooks"
+    },
+    {
+      "id": "card_54",
+      "front": "Hun ser p\u00e5 tv",
+      "back": "she watches tv"
+    },
+    {
+      "id": "card_55",
+      "front": "Favoritt",
+      "back": "favorite"
+    },
+    {
+      "id": "card_56",
+      "front": "Indisk mat",
+      "back": "indian food"
+    },
+    {
+      "id": "card_57",
+      "front": "Samosas",
+      "back": "samosas"
+    },
+    {
+      "id": "card_58",
+      "front": "Matbutikka",
+      "back": "grocery store"
+    },
+    {
+      "id": "card_59",
+      "front": "Blekksprut",
+      "back": "squid"
+    },
+    {
+      "id": "card_60",
+      "front": "Alle typer",
+      "back": "all types"
+    },
+    {
+      "id": "card_61",
+      "front": "Min familie",
+      "back": "my family"
+    },
+    {
+      "id": "card_62",
+      "front": "Han liker \u00e5 jobbe",
+      "back": "he likes working"
+    },
+    {
+      "id": "card_63",
+      "front": "Liker du deg here?",
+      "back": "do you like it here?"
+    },
+    {
+      "id": "card_64",
+      "front": "Lykke til!",
+      "back": "good luck"
+    },
+    {
+      "id": "card_65",
+      "front": "Hvor lenge?",
+      "back": "how long?"
+    },
+    {
+      "id": "card_66",
+      "front": "kylling",
+      "back": "chicken"
+    },
+    {
+      "id": "card_67",
+      "front": "riktig",
+      "back": "correct"
+    },
+    {
+      "id": "card_68",
+      "front": "hva slags musikk liker du?",
+      "back": "what kind of music do you like"
+    },
+    {
+      "id": "card_69",
+      "front": "hva slags filmer liker du?",
+      "back": "what kind of film do you like"
+    },
+    {
+      "id": "card_70",
+      "front": "hva slags mat liker du?",
+      "back": "what kind of food do you like"
+    },
+    {
+      "id": "card_71",
+      "front": "jeg liker deg",
+      "back": "i like you"
+    },
+    {
+      "id": "card_72",
+      "front": "jeg vet ikke",
+      "back": "i don't know"
+    },
+    {
+      "id": "card_73",
+      "front": "hvem er det?",
+      "back": "who is this?"
+    },
+    {
+      "id": "card_74",
+      "front": "dette er",
+      "back": "this is"
+    },
+    {
+      "id": "card_75",
+      "front": "jeg skal l\u00e6re norsk",
+      "back": "i am going to learn norwegian"
+    },
+    {
+      "id": "card_76",
+      "front": "f\u00f8dt",
+      "back": "born"
+    },
+    {
+      "id": "card_77",
+      "front": "n\u00e5r er hun f\u00f8dt?",
+      "back": "when is she born"
+    },
+    {
+      "id": "card_78",
+      "front": "gift",
+      "back": "married"
+    },
+    {
+      "id": "card_79",
+      "front": "s\u00e5 hyggelig",
+      "back": "so nice"
+    },
+    {
+      "id": "card_80",
+      "front": "tallene",
+      "back": "the numbers"
+    },
+    {
+      "id": "card_81",
+      "front": "\u00e5rstallene",
+      "back": "year figures"
+    },
+    {
+      "id": "card_82",
+      "front": "oppgaver",
+      "back": "tasks"
+    },
+    {
+      "id": "card_83",
+      "front": "h\u00f8yre",
+      "back": "right"
+    },
+    {
+      "id": "card_84",
+      "front": "veien",
+      "back": "road"
+    },
+    {
+      "id": "card_85",
+      "front": "kan du snakke saktere?",
+      "back": "can you speak more slowly"
+    },
+    {
+      "id": "card_86",
+      "front": "s\u00e5 hyggelig \u00e5 treffe deg",
+      "back": "so nice to meet you"
+    },
+    {
+      "id": "card_87",
+      "front": "n\u00f8kkelen",
+      "back": "key"
+    },
+    {
+      "id": "card_88",
+      "front": "Hvor mye koster billetten?",
+      "back": "how much is the ticket"
+    },
+    {
+      "id": "card_89",
+      "front": "veksle",
+      "back": "change"
+    },
+    {
+      "id": "card_90",
+      "front": "noen",
+      "back": "some"
+    },
+    {
+      "id": "card_91",
+      "front": "de snakker norsk",
+      "back": "they speak norwegian"
+    },
+    {
+      "id": "card_92",
+      "front": "n\u00e5 snakker dere litt norsk",
+      "back": "now you speak a little norwegian"
+    },
+    {
+      "id": "card_93",
+      "front": "dere",
+      "back": "you (plural)"
+    },
+    {
+      "id": "card_94",
+      "front": "de",
+      "back": "they"
+    },
+    {
+      "id": "card_95",
+      "front": "vi",
+      "back": "we"
+    },
+    {
+      "id": "card_96",
+      "front": "hvordan",
+      "back": "how"
+    },
+    {
+      "id": "card_97",
+      "front": "sier",
+      "back": "say"
+    },
+    {
+      "id": "card_98",
+      "front": "flott",
+      "back": "great"
+    },
+    {
+      "id": "card_99",
+      "front": "snakker dere norsk?",
+      "back": "Do you (plural) speak Norwegian?"
+    },
+    {
+      "id": "card_100",
+      "front": "forst\u00e5r du?",
+      "back": "Do you understand?"
+    },
+    {
+      "id": "card_101",
+      "front": "jeg forst\u00e5r ikke",
+      "back": "I don't understand"
+    },
+    {
+      "id": "card_102",
+      "front": "jeg tror det",
+      "back": "i think so"
+    },
+    {
+      "id": "card_103",
+      "front": "jeg tror ikke det",
+      "back": "i don't think so"
+    },
+    {
+      "id": "card_104",
+      "front": "ikke s\u00e5 bra",
+      "back": "not so good"
+    },
+    {
+      "id": "card_105",
+      "front": "jeg er syk i dag",
+      "back": "i am sick today"
+    },
+    {
+      "id": "card_106",
+      "front": "hvordan g\u00e5r det?",
+      "back": "How is it going"
+    },
+    {
+      "id": "card_107",
+      "front": "og med deg?",
+      "back": "and with you"
+    },
+    {
+      "id": "card_108",
+      "front": "stakkars deg",
+      "back": "poor you!"
+    },
+    {
+      "id": "card_109",
+      "front": "god bedring",
+      "back": "feel better"
+    },
+    {
+      "id": "card_110",
+      "front": "ganske bra",
+      "back": "pretty good"
+    },
+    {
+      "id": "card_111",
+      "front": "bare bra",
+      "back": "just fine"
+    },
+    {
+      "id": "card_112",
+      "front": "tr\u00f8t",
+      "back": "tired"
+    },
+    {
+      "id": "card_113",
+      "front": "jeg gruer meg til",
+      "back": "im dreading"
+    },
+    {
+      "id": "card_114",
+      "front": "forkj\u00f8let",
+      "back": "a cold"
+    },
+    {
+      "id": "card_115",
+      "front": "jeg glader meg til",
+      "back": "i'm looking forward to"
+    },
+    {
+      "id": "card_116",
+      "front": "to butikker",
+      "back": "two shops"
+    },
+    {
+      "id": "card_117",
+      "front": "har jobbet",
+      "back": "has worked"
+    },
+    {
+      "id": "card_118",
+      "front": "jeg har lyst p\u00e5 noe godt",
+      "back": "i fancy something nice"
+    },
+    {
+      "id": "card_119",
+      "front": "en uke",
+      "back": "a week"
+    },
+    {
+      "id": "card_120",
+      "front": "vente",
+      "back": "wait"
+    },
+    {
+      "id": "card_121",
+      "front": "hun skal kj\u00f8pe kl\u00e6r",
+      "back": "she shall shop for clothes"
+    },
+    {
+      "id": "card_122",
+      "front": "vil",
+      "back": "wants"
+    },
+    {
+      "id": "card_123",
+      "front": "byen",
+      "back": "city"
+    },
+    {
+      "id": "card_124",
+      "front": "leser",
+      "back": "read"
+    },
+    {
+      "id": "card_125",
+      "front": "hva gj\u00f8r han",
+      "back": "what does he do"
+    },
+    {
+      "id": "card_126",
+      "front": "hvordan har du det?",
+      "back": "how are you"
+    },
+    {
+      "id": "card_127",
+      "front": "jeg har mye \u00e5 gj\u00f8re",
+      "back": "Ive plenty to do"
+    },
+    {
+      "id": "card_128",
+      "front": "de har fri",
+      "back": "they have free"
+    },
+    {
+      "id": "card_129",
+      "front": "i byen",
+      "back": "in town"
+    },
+    {
+      "id": "card_130",
+      "front": "i helga",
+      "back": "this weekend"
+    },
+    {
+      "id": "card_131",
+      "front": "endelig",
+      "back": "finally"
+    },
+    {
+      "id": "card_132",
+      "front": "reise",
+      "back": "travel"
+    },
+    {
+      "id": "card_133",
+      "front": "monday",
+      "back": "mandag"
+    },
+    {
+      "id": "card_134",
+      "front": "tuesday",
+      "back": "tirsdag"
+    },
+    {
+      "id": "card_135",
+      "front": "wednesday",
+      "back": "onsdag"
+    },
+    {
+      "id": "card_136",
+      "front": "thursday",
+      "back": "torsdag"
+    },
+    {
+      "id": "card_137",
+      "front": "friday",
+      "back": "fredag"
+    },
+    {
+      "id": "card_138",
+      "front": "saturday",
+      "back": "l\u00f8rdag"
+    },
+    {
+      "id": "card_139",
+      "front": "sunday",
+      "back": "s\u00f8ndag"
+    },
+    {
+      "id": "card_140",
+      "front": "vi har fri i helga",
+      "back": "we have the weekend off"
+    },
+    {
+      "id": "card_141",
+      "front": "det er godt \u00e5 ha fri",
+      "back": "it is good to have time off"
+    },
+    {
+      "id": "card_142",
+      "front": "jeg kan slappe av",
+      "back": "i can relax"
+    },
+    {
+      "id": "card_143",
+      "front": "hvor lenge skal du v\u00e6re her?",
+      "back": "how long are you going to be here"
+    },
+    {
+      "id": "card_144",
+      "front": "hyggelig \u00e5 se deg!",
+      "back": "nice to see you"
+    },
+    {
+      "id": "card_145",
+      "front": "i like m\u00e5te",
+      "back": "the same to you"
+    },
+    {
+      "id": "card_146",
+      "front": "how do you make something plural",
+      "back": "add er or r"
+    },
+    {
+      "id": "card_147",
+      "front": "en kopp",
+      "back": "mange kopper"
+    },
+    {
+      "id": "card_148",
+      "front": "mange baguetter",
+      "back": "mange baguetter"
+    },
+    {
+      "id": "card_149",
+      "front": "en kjole",
+      "back": "mange kjoler"
+    },
+    {
+      "id": "card_150",
+      "front": "en butikk",
+      "back": "mange butikker"
+    },
+    {
+      "id": "card_151",
+      "front": "et rundstykke",
+      "back": "mange rundstykker"
+    },
+    {
+      "id": "card_152",
+      "front": "hva vil dere ha?",
+      "back": "what do you want?"
+    },
+    {
+      "id": "card_153",
+      "front": "jeg er ikke sulten",
+      "back": "i am not hungry"
+    },
+    {
+      "id": "card_154",
+      "front": "0",
+      "back": "null"
+    },
+    {
+      "id": "card_155",
+      "front": "jeg liker \u00e5...",
+      "back": "i like to"
+    },
+    {
+      "id": "card_156",
+      "front": "jeg har lyst til \u00e5 studere",
+      "back": "i would like to study"
+    },
+    {
+      "id": "card_157",
+      "front": "har du ventet s\u00e5 lenge?",
+      "back": "have you been waiting long?"
+    },
+    {
+      "id": "card_158",
+      "front": "det er greit",
+      "back": "thats okay"
+    },
+    {
+      "id": "card_159",
+      "front": "en kjole",
+      "back": "a dress"
+    },
+    {
+      "id": "card_160",
+      "front": "en genser",
+      "back": "a sweater"
+    },
+    {
+      "id": "card_161",
+      "front": "et skj\u00f8rt",
+      "back": "a skirt"
+    },
+    {
+      "id": "card_162",
+      "front": "ei skjorte",
+      "back": "a shirt"
+    },
+    {
+      "id": "card_163",
+      "front": "ei jakke",
+      "back": "a jacket"
+    },
+    {
+      "id": "card_164",
+      "front": "ei bukse",
+      "back": "pants"
+    },
+    {
+      "id": "card_165",
+      "front": "et skaut",
+      "back": "headscarf"
+    },
+    {
+      "id": "card_166",
+      "front": "ei k\u00e5pe",
+      "back": "a coat"
+    },
+    {
+      "id": "card_167",
+      "front": "et skjerf",
+      "back": "a scarf"
+    },
+    {
+      "id": "card_168",
+      "front": "ei lue",
+      "back": "a beanie"
+    },
+    {
+      "id": "card_169",
+      "front": "en hanske",
+      "back": "glove"
+    },
+    {
+      "id": "card_170",
+      "front": "tretten",
+      "back": "13"
+    },
+    {
+      "id": "card_171",
+      "front": "fjorten",
+      "back": "14"
+    },
+    {
+      "id": "card_172",
+      "front": "femten",
+      "back": "15"
+    },
+    {
+      "id": "card_173",
+      "front": "seksten",
+      "back": "16"
+    },
+    {
+      "id": "card_174",
+      "front": "sytten",
+      "back": "17"
+    },
+    {
+      "id": "card_175",
+      "front": "atten",
+      "back": "18"
+    },
+    {
+      "id": "card_176",
+      "front": "nitten",
+      "back": "19"
+    },
+    {
+      "id": "card_177",
+      "front": "tjue",
+      "back": "20"
+    },
+    {
+      "id": "card_178",
+      "front": "tjueen",
+      "back": "21"
+    },
+    {
+      "id": "card_179",
+      "front": "tretti",
+      "back": "30"
+    },
+    {
+      "id": "card_180",
+      "front": "f\u00f8rti",
+      "back": "40"
+    },
+    {
+      "id": "card_181",
+      "front": "femti",
+      "back": "50"
+    },
+    {
+      "id": "card_182",
+      "front": "seksti",
+      "back": "60"
+    },
+    {
+      "id": "card_183",
+      "front": "sytti",
+      "back": "70"
+    },
+    {
+      "id": "card_184",
+      "front": "\u00e5tti",
+      "back": "80"
+    },
+    {
+      "id": "card_185",
+      "front": "nitti",
+      "back": "90"
+    },
+    {
+      "id": "card_186",
+      "front": "100",
+      "back": "ett hundre"
+    },
+    {
+      "id": "card_187",
+      "front": "101",
+      "back": "hundre og en"
+    },
+    {
+      "id": "card_188",
+      "front": "105",
+      "back": "hundre og fem"
+    },
+    {
+      "id": "card_189",
+      "front": "200",
+      "back": "to hundre"
+    },
+    {
+      "id": "card_190",
+      "front": "300",
+      "back": "tre hundre"
+    },
+    {
+      "id": "card_191",
+      "front": "1000",
+      "back": "ett tusen"
+    },
+    {
+      "id": "card_192",
+      "front": "2000",
+      "back": "tu tusen"
+    },
+    {
+      "id": "card_193",
+      "front": "1,000,000",
+      "back": "en million"
+    },
+    {
+      "id": "card_194",
+      "front": "1,000,000,000",
+      "back": "en milliard"
+    },
+    {
+      "id": "card_195",
+      "front": "gift",
+      "back": "married"
+    },
+    {
+      "id": "card_196",
+      "front": "ugift",
+      "back": "unmarried"
+    },
+    {
+      "id": "card_197",
+      "front": "f\u00f8dested",
+      "back": "city of birth"
+    },
+    {
+      "id": "card_198",
+      "front": "kan jeg f\u00e5 snakke med....",
+      "back": "can i talk to"
+    },
+    {
+      "id": "card_199",
+      "front": "kan jeg ta imot en beskjed?",
+      "back": "Can i take a message"
+    },
+    {
+      "id": "card_200",
+      "front": "kan du gi henne en beskjed fra meg",
+      "back": "can you give her a message"
+    },
+    {
+      "id": "card_201",
+      "front": "et \u00f8yeblikk",
+      "back": "just a moment"
+    },
+    {
+      "id": "card_202",
+      "front": "du har ringt feil",
+      "back": "you have called wrongly"
+    },
+    {
+      "id": "card_203",
+      "front": "ses snart!",
+      "back": "see you soon"
+    },
+    {
+      "id": "card_204",
+      "front": "dessverre",
+      "back": "unfortunately"
+    },
+    {
+      "id": "card_205",
+      "front": "hun er ikke inne n\u00e5",
+      "back": "she is not in now"
+    },
+    {
+      "id": "card_206",
+      "front": "jeg kan ringe senere",
+      "back": "i can call later"
+    },
+    {
+      "id": "card_207",
+      "front": "hun kommer snart",
+      "back": "she is coming soon"
+    },
+    {
+      "id": "card_208",
+      "front": "hvem har f\u00e5tt nytt mobilnummer?",
+      "back": "who has a new cellphone number"
+    },
+    {
+      "id": "card_209",
+      "front": "n\u00e5r kommer bussen?",
+      "back": "den kommer snart"
+    },
+    {
+      "id": "card_210",
+      "front": "hvor er veska?",
+      "back": "den er her"
+    },
+    {
+      "id": "card_211",
+      "front": "hvor er skjemaet?",
+      "back": "det er her"
+    },
+    {
+      "id": "card_212",
+      "front": "hvor er b\u00f8kene?",
+      "back": "de er her"
+    },
+    {
+      "id": "card_213",
+      "front": "en hanske",
+      "back": "glove"
+    }
+  ]
+}
+

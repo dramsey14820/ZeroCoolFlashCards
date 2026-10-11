@@ -1,0 +1,16 @@
+@model string
+<div class="container mt-5 text-center">
+    <h2>Deck Complete!</h2>
+    <p class="lead">You have successfully reviewed all cards in this deck.</p>
+    
+    @if (!string.IsNullOrEmpty((string)ViewBag.ReviewDeckId))
+    {
+        <div class="alert alert-warning d-inline-block mt-3">
+            <strong>Heads Up!</strong> You marked some cards below 5 stars.<br />
+            A new Review Deck has been generated for you to practice them.
+        </div>
+        <br/>
+    }
+
+    <a asp-action="Index" class="btn btn-primary mt-3">Back to Decks</a>
+</div>

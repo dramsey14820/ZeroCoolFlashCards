@@ -1,0 +1,40 @@
+@model FlashcardApp.Models.Deck
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Editing Deck: @Model.Title</h2>
+        <div class="d-flex gap-2">
+            <a asp-action="EditCard" asp-route-deckId="@Model.Id" class="btn btn-primary">+ Add New Card</a>
+            
+            <form asp-action="DeleteDeck" asp-route-id="@Model.Id" method="post" onsubmit="return confirm('Are you sure you want to delete this ENTIRE deck?');">
+                <button type="submit" class="btn btn-danger">Delete Deck</button>
+            </form>
+
+            <a asp-action="Index" class="btn btn-secondary">Back to Decks</a>
+        </div>
+    </div>
+
+    <div class="list-group">
+        @if (!Model.Cards.Any()) {
+            <p>This deck has no cards yet.</p>
+        }
+        @foreach (var card in Model.Cards)
+        {
+            <div class="list-group-item">
+                <div class="row align-items-center">
+                    <div class="col-md-9">
+                        <strong>Q:</strong> <span style="white-space: pre-wrap; overflow-wrap: break-word;">@card.Front</span><br />
+                        <span class="text-muted"><strong>A:</strong> <span style="white-space: pre-wrap; overflow-wrap: break-word;">@card.Back</span></span>
+                    </div>
+                    <div class="col-md-3 text-end">
+                        <a asp-action="EditCard" asp-route-deckId="@Model.Id" asp-route-cardId="@card.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <form asp-action="DeleteCard" class="d-inline" method="post" onsubmit="return confirm('Delete this card?');">
+                            <input type="hidden" name="deckId" value="@Model.Id" />
+                            <input type="hidden" name="cardId" value="@card.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

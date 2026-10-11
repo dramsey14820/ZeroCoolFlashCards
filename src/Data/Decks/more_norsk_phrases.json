@@ -1,0 +1,516 @@
+{
+  "id": "more_norsk_phrases",
+  "title": "More Norsk Phrases",
+  "cards": [
+    {
+      "id": "0c115570-ec85-49be-b888-2098186f2439",
+      "front": "Hvor gammel er du?",
+      "back": "How old are you?"
+    },
+    {
+      "id": "c82acc5f-f0ce-452a-90fe-b35555652894",
+      "front": "Hvor er du fra?",
+      "back": "Where are you from?"
+    },
+    {
+      "id": "05d5379a-ddbd-4143-b439-f537e90d38b7",
+      "front": "Snakker du Norsk?",
+      "back": "Do you speak Norwegian?"
+    },
+    {
+      "id": "534eadcc-ea20-412c-ba3c-1b5935cc6f36",
+      "front": "Jeg snakker Norsk.",
+      "back": "I speak Norwegian."
+    },
+    {
+      "id": "8a04626d-1ade-4dc5-adb2-2cb6fc481db0",
+      "front": "Unnskyld, jeg snakker ikke Norsk.",
+      "back": "Sorry, I do not speak Norwegian."
+    },
+    {
+      "id": "0edb8dcc-7a08-43be-82ef-6bb574f09ec4",
+      "front": "Jeg snakker bare litt Norsk",
+      "back": "I only speak a little Norwegian."
+    },
+    {
+      "id": "4d98c970-04c9-415e-97d7-1379140658cd",
+      "front": "Kan du gjenta det, er du snill?",
+      "back": "Can you repeat that, please?"
+    },
+    {
+      "id": "c552fd64-e0ca-490d-91c2-5b249da0aca9",
+      "front": "Forst\u00E5r du?",
+      "back": "Do you understand?"
+    },
+    {
+      "id": "fefbdcaa-791f-482d-9551-4d189ecb3fc4",
+      "front": "Jeg forst\u00E5r.",
+      "back": "I understand."
+    },
+    {
+      "id": "4d972445-4f68-4d82-9103-adfc2a72cd4b",
+      "front": "Jeg forst\u00E5r ikke.",
+      "back": "I don\u0027t understand."
+    },
+    {
+      "id": "613a2a58-0391-423b-b3a9-9b85778b344a",
+      "front": "Hvordan sier du [...] p\u00E5 Norsk?",
+      "back": "How do you say ??? in norwegian?"
+    },
+    {
+      "id": "d3596ae4-ffe9-495e-a986-40790f4672ca",
+      "front": "Hva er dette?",
+      "back": "What is this?"
+    },
+    {
+      "id": "4e4da384-9514-476a-a06e-c2afff741f16",
+      "front": "Hva sa du?",
+      "back": "What did you say?"
+    },
+    {
+      "id": "81f3e110-4741-4af0-9854-55a80f0a7418",
+      "front": "H\u00E6?",
+      "back": "Huh?"
+    },
+    {
+      "id": "21ce5138-9074-44a2-b05a-d7011956adea",
+      "front": "Snakk saktere, er du snill.",
+      "back": "Speak slower, please."
+    },
+    {
+      "id": "d5e72df2-7e52-4a04-943f-0b48a9d34a87",
+      "front": "Kan du snakke saktere?",
+      "back": "Can you speak slower?"
+    },
+    {
+      "id": "b795f02c-f347-46c0-ba84-d78cb1e3e110",
+      "front": "Jeg vet ikke.",
+      "back": "I don\u0027t know."
+    },
+    {
+      "id": "22a36e68-8666-4db6-aff8-4f59e9f7e983",
+      "front": "Jeg vet.",
+      "back": "I know."
+    },
+    {
+      "id": "8cf1ccb9-7d4f-414a-9b4e-1ee01f0834a2",
+      "front": "Jeg aner ikke.",
+      "back": "I don\u0027t know. I have no idea.... no guess."
+    },
+    {
+      "id": "524f131e-3807-43dc-bdca-342ab2a0e5ba",
+      "front": "Jeg har ikke peiling",
+      "back": "I have no idea."
+    },
+    {
+      "id": "ce22da96-7758-4018-9fc6-4fa69f654b9b",
+      "front": "Lukke til.",
+      "back": "Good luck."
+    },
+    {
+      "id": "6aa79b0c-d8e9-4665-a0ce-c268a07fa432",
+      "front": "Hva skjer \u0027a?",
+      "back": "What\u0027s up?"
+    },
+    {
+      "id": "1d64b470-42e0-4800-8739-402df2e019de",
+      "front": "Ikke mye.",
+      "back": "Not much."
+    },
+    {
+      "id": "27d6b64d-5172-4515-a141-6b90572d2e8c",
+      "front": "Hva gj\u00F8r du?",
+      "back": "What are you doing?"
+    },
+    {
+      "id": "b97a26bb-33d1-48de-ac83-d24b343c8660",
+      "front": "Jeg slapper av.",
+      "back": "I am relaxing."
+    },
+    {
+      "id": "c3f76453-fd05-4818-8646-4c815020d247",
+      "front": "Hva er klokka?",
+      "back": "What time is it?"
+    },
+    {
+      "id": "4379fbaf-9572-437c-889b-4884f21ea9e4",
+      "front": "Hyggelig \u00E5 treffe deg.",
+      "back": "Nice to meet you."
+    },
+    {
+      "id": "68674bca-fc91-4e44-9259-dd76b31e3421",
+      "front": "Det var veldig hyggelig \u00E5 m\u00F8te deg.",
+      "back": "It was very nice to meet you."
+    },
+    {
+      "id": "82caed11-ce20-42de-bcaf-0f9fd81dd735",
+      "front": "Det er veldig hyggelig \u00E5 m\u00F8te deg.",
+      "back": "It is very nice to meet you."
+    },
+    {
+      "id": "7286e905-9067-41af-99e9-6b083031a5cf",
+      "front": "Du/Dere har et fint hjem.",
+      "back": "You/You all have a nice home."
+    },
+    {
+      "id": "0e42ea25-da27-4d9d-b6c4-80cc1daa366e",
+      "front": "Dere/Du har fantastiske barn.",
+      "back": "You all/ You have beautiful children."
+    },
+    {
+      "id": "38f2e68f-0302-427e-be4b-62dfc11f4a06",
+      "front": "s\u00E5 s\u00F8te, pene",
+      "back": "so sweet, pretty"
+    },
+    {
+      "id": "5c225dc5-26a9-4971-a6d2-22465a1a955f",
+      "front": "Dere har s\u00E5 s\u00F8te barn.",
+      "back": "You have so sweet children."
+    },
+    {
+      "id": "2e537933-e6be-4d12-9edc-11b0347f880f",
+      "front": "Dette var et nydelig m\u00E5ltid.",
+      "back": "This was a wonderful meal."
+    },
+    {
+      "id": "b1d6c041-6e62-4c98-9e0d-a37da9f0c80e",
+      "front": "Takk for maten.",
+      "back": "Thanks for food."
+    },
+    {
+      "id": "27e44c05-a941-42f2-83c7-3fdafb823385",
+      "front": "Det smakte godt.",
+      "back": "It tasted good."
+    },
+    {
+      "id": "745db40b-a216-4baf-9d0e-44af4b8bf4f9",
+      "front": "Det var fantastisk.",
+      "back": "It was fantastic."
+    },
+    {
+      "id": "a71a8fe2-bbfa-4828-8207-d9b3cfde77a6",
+      "front": "Dr\u00F8m s\u00F8tt",
+      "back": "Sweet dreams"
+    },
+    {
+      "id": "bbfcc235-4b91-4017-96fc-dc563a4554bb",
+      "front": "Sov godt",
+      "back": "sleep well"
+    },
+    {
+      "id": "a1d18863-f743-4bf0-8f32-512da98e1ee2",
+      "front": "Natta",
+      "back": "nighty"
+    },
+    {
+      "id": "04c5a238-575f-474f-aa83-bbfc1b642d5e",
+      "front": "Jeg er tr\u00F8tt",
+      "back": "I am tired"
+    },
+    {
+      "id": "6b446d1d-0f08-4f23-9844-61811fb35796",
+      "front": "Jeg er sulten",
+      "back": "I am hungry"
+    },
+    {
+      "id": "2f87c8ea-dbd1-424f-abb2-48c1d26112ce",
+      "front": "vent litt",
+      "back": "Wait a minute ( wait a little )"
+    },
+    {
+      "id": "e32dddec-e94e-4c69-a20f-949445e4205b",
+      "front": "Det var synd",
+      "back": "That\u0027s too bad ( it is pity )"
+    },
+    {
+      "id": "eeec5148-186e-49b0-86d6-1c1acabbb8ec",
+      "front": "Kan jeg hjelpe deg?",
+      "back": "Can I help you?"
+    },
+    {
+      "id": "ad3a0f05-774c-48eb-b0dc-3ec8b6a2ce24",
+      "front": "Trenger du hjelp?",
+      "back": "Do you need help?"
+    },
+    {
+      "id": "f3bc4531-f386-4898-9c50-a2b410181588",
+      "front": "Jeg trenger hjelp.",
+      "back": "I need help."
+    },
+    {
+      "id": "da865f96-c600-4edb-be16-c784d7cccf9d",
+      "front": "Jeg har g\u00E5tt meg bort.",
+      "back": "I lost my way."
+    },
+    {
+      "id": "1ced4e82-9aba-4ad1-a38c-c0b20f7732d3",
+      "front": "hvor skal du?",
+      "back": "where are you going?"
+    },
+    {
+      "id": "1c557051-7a79-4cf9-99bc-0bf0a3f252f5",
+      "front": "Jeg skulle g\u00E5 til ...",
+      "back": "I meant to go to ..."
+    },
+    {
+      "id": "7eab4677-e7eb-4e98-817f-e81c1bea0bd3",
+      "front": "Hvor er n\u00E6rmeste bensinstasjon?",
+      "back": "Where is the closest gas station?"
+    },
+    {
+      "id": "dc1995e1-3018-4e01-9044-5a2368da1989",
+      "front": "Jeg trenger \u00E5 bruke toalettet.",
+      "back": "I need to use the bathroom."
+    },
+    {
+      "id": "df770365-086b-47dc-a410-39424211d304",
+      "front": "Kan jeg bruke ditt/deres",
+      "back": "Can I use yours/you all\u0027s?"
+    },
+    {
+      "id": "87dc7771-a51d-4d35-8264-c9778b9ddebd",
+      "front": "Ta det rolig",
+      "back": "Take it easy."
+    },
+    {
+      "id": "de6b5cff-62aa-45ef-b60e-391ac1dd5969",
+      "front": "Alt er bra.",
+      "back": "Everything is good."
+    },
+    {
+      "id": "5f481dff-85d6-4b1a-b3e4-c8e4a708586f",
+      "front": "Ikke v\u00E6r urolig.",
+      "back": "Don\u0027t worry (don\u0027t be worried)"
+    },
+    {
+      "id": "e2d07c94-836d-43b1-9597-f9cfdfc2168d",
+      "front": "Ingen er perfekte",
+      "back": "Nobody\u0027s perfect."
+    },
+    {
+      "id": "e38a40e3-34ea-49e5-ab8d-69314c6194b5",
+      "front": "Du har rett.",
+      "back": "You are right (you have right)"
+    },
+    {
+      "id": "fbaebdb0-5a19-4141-a689-8149efac5c7b",
+      "front": "Du har feil.",
+      "back": "You are wrong ( you have wrong )"
+    },
+    {
+      "id": "0ff6a4b6-9137-4743-a174-1d81128684ba",
+      "front": "Jeg tror deg.",
+      "back": "I believe you."
+    },
+    {
+      "id": "68d3ed61-3310-47da-84fe-0c45e339c0b6",
+      "front": "Gratulerer med dagen.",
+      "back": "Happy Birthday."
+    },
+    {
+      "id": "f495d925-e4d9-4e45-8616-f7db2ae5707f",
+      "front": "Godt nytt \u00E5r",
+      "back": "Happy New year."
+    },
+    {
+      "id": "1c5c30df-9c0c-4471-9edc-eb25aa904d36",
+      "front": "Fort deg!",
+      "back": "Hurry up!"
+    },
+    {
+      "id": "a553ab77-e88e-4bba-ab83-57455f308455",
+      "front": "G\u00E5 bort!",
+      "back": "Go away."
+    },
+    {
+      "id": "fe86f9a7-3b97-410b-9c5d-c792957371e6",
+      "front": "V\u00E6r stille",
+      "back": "Be quite"
+    },
+    {
+      "id": "edc55cbe-e359-4d41-9207-8bd59b626e23",
+      "front": "V\u00E6r forsiktig!",
+      "back": "Be careful!"
+    },
+    {
+      "id": "eb2f472d-003d-4992-bc5c-16d7b8b49ea1",
+      "front": "F\u00F8lg med!",
+      "back": "Pay attention!"
+    },
+    {
+      "id": "139d5091-c95d-4558-91f3-65605c4bf07e",
+      "front": "Ikke gi opp!",
+      "back": "Don\u0027t give up!"
+    },
+    {
+      "id": "55a12852-cd1f-4a3e-9e49-fb280706850c",
+      "front": "Skam deg!",
+      "back": "Shame on you!"
+    },
+    {
+      "id": "b7ef412b-cda8-4e4b-a374-0b8ff20505e6",
+      "front": "Bra gjort",
+      "back": "Well done"
+    },
+    {
+      "id": "5d22ce3f-9b6d-4e7f-97dc-22d58d56a8e3",
+      "front": "Jeg m\u00E5 ...",
+      "back": "I have to ..."
+    },
+    {
+      "id": "0907bd5c-1b99-41c1-99ab-124904c4449f",
+      "front": "lage middag",
+      "back": "cook dinner"
+    },
+    {
+      "id": "656ce519-86c7-4e66-a98e-2ab137bcf0da",
+      "front": "Vaske opp / ta oppvasken",
+      "back": "Do the dishes / take the dishes"
+    },
+    {
+      "id": "b01a6710-3f4d-4af6-a8cb-946805d68ee4",
+      "front": "vaske kl\u00E6r",
+      "back": "do the laundry"
+    },
+    {
+      "id": "62bf90e1-2bc8-4770-98b1-f1662e136842",
+      "front": "vaske gulvet",
+      "back": "wash the floor"
+    },
+    {
+      "id": "b0dbc376-9e0c-4d73-8cd7-00a922811ef5",
+      "front": "vaske huset",
+      "back": "clean the house"
+    },
+    {
+      "id": "8bc50edd-c7bc-46d5-819d-33174ba21e61",
+      "front": "rydde rommet",
+      "back": "rearrange the room"
+    },
+    {
+      "id": "cb712ddc-a2af-4c2d-b1b6-f0d08f835b70",
+      "front": "g\u00E5 \u00E5 legge meg",
+      "back": "go to sleep ( go and lie down)"
+    },
+    {
+      "id": "6ed25e6f-0555-4776-9112-eead2d95f6c8",
+      "front": "Jeg liker \u00E5 ...",
+      "back": "I like to ..."
+    },
+    {
+      "id": "b7b4e6e1-afc3-4675-8a2f-0d9996f58e6f",
+      "front": "se p\u00E5 TV",
+      "back": "watch TV"
+    },
+    {
+      "id": "40cf4fe3-4b7d-4359-876c-2e3890863c10",
+      "front": "v\u00E6re p\u00E5 internett",
+      "back": "surf the internet (be on the internet)"
+    },
+    {
+      "id": "9cea624e-bfb7-41d1-a8be-7be78c39e1de",
+      "front": "v\u00E6re p\u00E5 dataen",
+      "back": "be on the computer"
+    },
+    {
+      "id": "f8a2b4d1-5026-433e-b5f7-b9b07d581e45",
+      "front": "spille piano",
+      "back": "play the piano"
+    },
+    {
+      "id": "207e8674-1f27-4052-9718-958940721b49",
+      "front": "spille gitar",
+      "back": "play the guitar"
+    },
+    {
+      "id": "caf8cc3f-4b39-4f41-bb52-a66a5a8c2919",
+      "front": "spille fiolin",
+      "back": "play the violin"
+    },
+    {
+      "id": "b1025880-8a79-46c5-a8d6-753ff58ff2d0",
+      "front": "h\u00F8re p\u00E5 musikk",
+      "back": "listen to music"
+    },
+    {
+      "id": "ecaca45d-0e58-42a1-a2d5-4afff9442a70",
+      "front": "snakke med venner p\u00E5 telefonen / p\u00E5 skype",
+      "back": "chat with my friends on the phone / skype"
+    },
+    {
+      "id": "ee543222-b5b1-4fe1-842b-7f9f1e0f07bf",
+      "front": "hvordan var konserten",
+      "back": "how was the concert"
+    },
+    {
+      "id": "233d10bd-2687-4e67-b49d-99865e8d3c54",
+      "front": "det var g\u00F8y",
+      "back": "it was fun"
+    },
+    {
+      "id": "9746d384-6c37-49cf-a88c-bb0a13643324",
+      "front": "det var fantastisk",
+      "back": "it was awesome (fantastic)"
+    },
+    {
+      "id": "a3adbcf5-0021-4c3d-8800-334ef16a43b3",
+      "front": "jeg hadde det kjempe bra",
+      "back": "I had a great time ( I had it really well)"
+    },
+    {
+      "id": "5eab999e-c4a2-4bc6-aa85-e25b26abb905",
+      "front": "hvordan var forelesningen?",
+      "back": "How was the lecture?"
+    },
+    {
+      "id": "c43380f9-f2ac-4604-88af-820e30bd05c4",
+      "front": "det var kjedelig",
+      "back": "it was boring"
+    },
+    {
+      "id": "72ca48f3-c26b-452c-8306-d515310eb3c7",
+      "front": "det var interessant",
+      "back": "it was interesting"
+    },
+    {
+      "id": "30af28d7-8c4b-4426-a9e8-843c83d99181",
+      "front": "Seri\u00F8st?",
+      "back": "Really? (seriously?)"
+    },
+    {
+      "id": "0e9bcccb-c646-4e16-a5d8-964dc64dee97",
+      "front": "Tuller du? (slang: k\u00F8dder du?)",
+      "back": "are you kidding?"
+    },
+    {
+      "id": "3b9f0889-25b0-489b-9682-8a3e3534794f",
+      "front": "jeg er seri\u00F8s",
+      "back": "I am serious"
+    },
+    {
+      "id": "04177428-f607-4aab-998a-4bc9fe9f2a82",
+      "front": "det er ikke det samme",
+      "back": "it\u0027s not the same"
+    },
+    {
+      "id": "1e61396f-1a41-49f4-a60e-d6c6be348990",
+      "front": "du burde pr\u00F8ve det",
+      "back": "you should try it"
+    },
+    {
+      "id": "306bf091-8043-4b00-88e8-b9fe972f8fee",
+      "front": "jeg er sikker",
+      "back": "I am sure"
+    },
+    {
+      "id": "eb4ab0bf-47f5-4c87-87c0-721190322aa5",
+      "front": "ikke kast bort tiden din",
+      "back": "don\u0027t waste your time"
+    },
+    {
+      "id": "124f8bf9-2467-4579-9ff6-e96b8b95d7d9",
+      "front": "du burde gj\u00F8re det",
+      "back": "you better do it"
+    }
+  ]
+}

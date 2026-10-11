@@ -1,0 +1,46 @@
+{
+  "id": "norsk_phrases_ab_1",
+  "title": "Norsk Phrases AB-1",
+  "cards": [
+    {
+      "id": "27a9e35c-4fee-4c23-af51-b26c1b87b9b8",
+      "front": "Nice to meet you",
+      "back": "Hyggelig \u00E5 m\u00F8te deg"
+    },
+    {
+      "id": "c0df089b-c90a-4d8e-bf05-d95b4f3a246a",
+      "front": "Do you remember my name",
+      "back": "Husker du navnet mitt"
+    },
+    {
+      "id": "47d6c9a8-e0f6-46e0-95a5-17c1a8944b59",
+      "front": "I am not home now",
+      "back": "jeg er ikke hjemme n\u00E5"
+    },
+    {
+      "id": "adef46fe-49c6-4109-8b4d-64a690a1d8ec",
+      "front": "I do not know her",
+      "back": "jeg kjenner ikke henne"
+    },
+    {
+      "id": "59013352-22a5-49b9-a68b-9f0f464a6409",
+      "front": "what time is it",
+      "back": "hva er klokken"
+    },
+    {
+      "id": "7b33fb24-e52b-4cdf-9558-1fb39b479b71",
+      "front": "hi. how goes it?",
+      "back": "Hei. Hvordan g\u00E5r det?"
+    },
+    {
+      "id": "8554022e-a6a7-45a2-aba6-71bea7e88807",
+      "front": "can you write down your name?",
+      "back": "Kan du skrive ned navnet ditt?"
+    },
+    {
+      "id": "34e0d0a6-6aab-4c5f-8575-5693d9e99d3c",
+      "front": "I do not like the server.",
+      "back": "jeg liker ikke servit\u00F8ren."
+    }
+  ]
+}

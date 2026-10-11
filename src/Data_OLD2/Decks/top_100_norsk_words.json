@@ -1,0 +1,506 @@
+{
+  "id": "top_100_norsk_words",
+  "title": "Top 100 Norsk Words",
+  "cards": [
+    {
+      "id": "29f81876-3954-42df-bf68-232342dc4a2f",
+      "front": "Jeg",
+      "back": "I"
+    },
+    {
+      "id": "5972d9a0-79e5-458d-b765-c521af381fa7",
+      "front": "det",
+      "back": "the"
+    },
+    {
+      "id": "b62e688a-86e1-4bfb-a29e-40f8729d37b0",
+      "front": "er",
+      "back": "is"
+    },
+    {
+      "id": "65641d50-d1b6-4502-b84a-2d22301e6a3a",
+      "front": "du",
+      "back": "you"
+    },
+    {
+      "id": "3d05ef7b-3786-4863-a7f5-0ff5c50f6aec",
+      "front": "ikke",
+      "back": "not"
+    },
+    {
+      "id": "5ca86415-47c0-4402-9b98-830489239f95",
+      "front": "en",
+      "back": "one"
+    },
+    {
+      "id": "dfbdc21a-cc55-4d32-a650-a53897c6df76",
+      "front": "og",
+      "back": "and"
+    },
+    {
+      "id": "0380f6a6-26f9-4505-91b8-73fc30143bbd",
+      "front": "I",
+      "back": "in"
+    },
+    {
+      "id": "fcc5e82b-ac28-4693-b219-3735970c68bb",
+      "front": "har",
+      "back": "have"
+    },
+    {
+      "id": "ac9716cb-2576-4861-a7ee-15db91732c3c",
+      "front": "vi",
+      "back": "we"
+    },
+    {
+      "id": "c1b6296a-557b-4610-b8d8-087108ff59eb",
+      "front": "p\u00E5",
+      "back": "on"
+    },
+    {
+      "id": "0beeae6d-4378-4980-a6d3-369eace2a088",
+      "front": "til",
+      "back": "to"
+    },
+    {
+      "id": "4c4edbcf-de4b-4823-8c45-9112034bcdbf",
+      "front": "me\n\nmed",
+      "back": "with"
+    },
+    {
+      "id": "e4da236e-d785-46c1-8829-ba67ff6dfe5c",
+      "front": "\u00E5",
+      "back": "to"
+    },
+    {
+      "id": "b3fc3108-3a07-4edf-a66f-a98cfa1edc8f",
+      "front": "han",
+      "back": "he"
+    },
+    {
+      "id": "d5f60249-fc4b-47f8-bfb2-c3a7fc60d0eb",
+      "front": "deg",
+      "back": "you (subject)"
+    },
+    {
+      "id": "ba942715-a2ec-49aa-aed8-4f820eccdc74",
+      "front": "for",
+      "back": "for"
+    },
+    {
+      "id": "63a7fd2e-d9f2-4b4f-a07f-56dfb2bd1e49",
+      "front": "meg",
+      "back": "me"
+    },
+    {
+      "id": "bcf148bb-52cc-4528-b468-cbb4975fef5b",
+      "front": "hva",
+      "back": "What"
+    },
+    {
+      "id": "b4a6d496-90f1-46f3-b174-30b1d28bc4cf",
+      "front": "at",
+      "back": "that"
+    },
+    {
+      "id": "b829e229-460e-435d-bcfe-d130422a4283",
+      "front": "den",
+      "back": "it"
+    },
+    {
+      "id": "caadf407-a1f7-4ebc-bb6c-1ecb1b96086b",
+      "front": "s\u00E5",
+      "back": "so"
+    },
+    {
+      "id": "732fbaa6-e749-4c32-882a-5a965ba7da0d",
+      "front": "som",
+      "back": "as"
+    },
+    {
+      "id": "8ee2b28b-394c-4090-a653-9da8f7c00143",
+      "front": "de",
+      "back": "they"
+    },
+    {
+      "id": "c8967305-195a-4dab-874e-948ab2f592bd",
+      "front": "kan",
+      "back": "can"
+    },
+    {
+      "id": "9b7c0fc7-c1c5-4103-ae37-b36032410738",
+      "front": "var",
+      "back": "our"
+    },
+    {
+      "id": "bcfba16e-f92f-4b7c-98e3-286ee0066865",
+      "front": "vil",
+      "back": "want"
+    },
+    {
+      "id": "93ed5129-6a52-4371-8c3f-288d58d1ceb5",
+      "front": "av",
+      "back": "of"
+    },
+    {
+      "id": "19029641-ca49-48d3-9a44-b2f129040c35",
+      "front": "skal",
+      "back": "shall"
+    },
+    {
+      "id": "c1c26110-88e8-4c8c-9e61-50955ed83770",
+      "front": "om",
+      "back": "about???"
+    },
+    {
+      "id": "ab1f8f6b-5d2b-4e28-ad25-65ac1df4d882",
+      "front": "men",
+      "back": "but"
+    },
+    {
+      "id": "048ecfd2-e89e-4053-93b2-d225bbb677a5",
+      "front": "et",
+      "back": "a"
+    },
+    {
+      "id": "e005a41c-f039-4411-97f2-f215ecc14118",
+      "front": "her",
+      "back": "here"
+    },
+    {
+      "id": "8c781718-5844-4423-8977-c6b89b101425",
+      "front": "ja",
+      "back": "yes"
+    },
+    {
+      "id": "773a5c3e-2318-4a13-a1eb-5fd237d6a5d6",
+      "front": "bare",
+      "back": "only"
+    },
+    {
+      "id": "8345e8df-30ab-4db6-9cea-bf62176d6cc5",
+      "front": "dere",
+      "back": "you (you all)"
+    },
+    {
+      "id": "702399f2-b2b0-4a8f-9ad2-ec3c61cda58c",
+      "front": "hun",
+      "back": "she"
+    },
+    {
+      "id": "bf3ecdad-32eb-4c59-a9c8-d4a3ac94063f",
+      "front": "m\u00E5",
+      "back": "must"
+    },
+    {
+      "id": "995f1d7f-cecb-4ff3-bac1-2e96ce733298",
+      "front": "noe",
+      "back": "something"
+    },
+    {
+      "id": "6cbe54b8-9d49-4188-bad7-5b3f012091b9",
+      "front": "ham",
+      "back": "him"
+    },
+    {
+      "id": "ab65a701-5c21-4078-8fe8-5f4ac478010e",
+      "front": "dette",
+      "back": "this"
+    },
+    {
+      "id": "e79ff272-165e-469a-b1b0-f40e8fab794d",
+      "front": "nei",
+      "back": "no"
+    },
+    {
+      "id": "c8f01e01-7ba6-4667-a06c-393d472091d5",
+      "front": "n\u00E5",
+      "back": "now"
+    },
+    {
+      "id": "8ea32a69-9a42-43f0-ab46-33e4b04083bd",
+      "front": "kom",
+      "back": "came"
+    },
+    {
+      "id": "9deba7c1-29cc-4826-9da0-77b8a535b665",
+      "front": "min",
+      "back": "my"
+    },
+    {
+      "id": "96c2283e-5058-40b8-9785-91e41332ec91",
+      "front": "vet",
+      "back": "know"
+    },
+    {
+      "id": "9288fefa-e17e-49ba-b79b-ba0fa80f469b",
+      "front": "der",
+      "back": "there"
+    },
+    {
+      "id": "11c25e75-fa23-4290-8139-fef56fd49246",
+      "front": "din",
+      "back": "your"
+    },
+    {
+      "id": "0dabd47f-37de-463d-82f9-63f4a639bba9",
+      "front": "ut",
+      "back": "out"
+    },
+    {
+      "id": "59d7efe9-900e-438e-b8be-115b095ff8d4",
+      "front": "hvor",
+      "back": "where"
+    },
+    {
+      "id": "ddafd692-010c-4ac3-a156-60d9e9ce2f3b",
+      "front": "da",
+      "back": "then"
+    },
+    {
+      "id": "e68a20d1-ecd2-4e9f-9ec4-6c93e52e3cba",
+      "front": "fra",
+      "back": "from"
+    },
+    {
+      "id": "ebc4a6c5-8b3a-4ef4-99cc-882a5d6b07a4",
+      "front": "oss",
+      "back": "us"
+    },
+    {
+      "id": "2abfa8d3-e046-4fab-9412-dc4674d88ce8",
+      "front": "se",
+      "back": "see"
+    },
+    {
+      "id": "13d09900-83b7-4944-afd6-3ea983dc678f",
+      "front": "v\u00E6re",
+      "back": "be"
+    },
+    {
+      "id": "1160210e-4080-443e-a586-8de5a359018b",
+      "front": "ha",
+      "back": "have"
+    },
+    {
+      "id": "789f3439-babf-4785-a79f-f123f6d9c318",
+      "front": "dem",
+      "back": "them"
+    },
+    {
+      "id": "7cb0e0d4-913c-4094-a2e4-f80a727a6781",
+      "front": "gj\u00F8r",
+      "back": "do"
+    },
+    {
+      "id": "3a089d69-da85-46eb-bdce-ce142738c950",
+      "front": "igjen",
+      "back": "again"
+    },
+    {
+      "id": "4ea1ea82-ee32-4f16-87d7-5cdf2d754105",
+      "front": "noen",
+      "back": "some"
+    },
+    {
+      "id": "aa707e76-86bc-4469-b81e-745405631e08",
+      "front": "kommer",
+      "back": "come"
+    },
+    {
+      "id": "539f0eea-f494-4192-a222-f55249497c76",
+      "front": "ta",
+      "back": "take"
+    },
+    {
+      "id": "c99330c2-0fdb-4796-b715-c119499ee494",
+      "front": "ville",
+      "back": "would"
+    },
+    {
+      "id": "971e40c3-738b-4c3d-a809-91fbb94064a0",
+      "front": "hvis",
+      "back": "if"
+    },
+    {
+      "id": "8181b752-1a26-45fb-ba74-d2aeb64ffb7d",
+      "front": "alle",
+      "back": "all"
+    },
+    {
+      "id": "36e11b7b-b927-468e-b36b-cbc9c10514e5",
+      "front": "f\u00E5",
+      "back": "get"
+    },
+    {
+      "id": "70aee6e4-022c-4186-89d8-fddcbdd21083",
+      "front": "hvorfor",
+      "back": "why"
+    },
+    {
+      "id": "996360c6-9cbc-42ed-ba9f-6d991353b395",
+      "front": "tror",
+      "back": "think"
+    },
+    {
+      "id": "e40e815b-85bd-4e9b-b6b4-0db0901ac65d",
+      "front": "g\u00E5r",
+      "back": "go"
+    },
+    {
+      "id": "822e496a-7015-4e4d-840c-91d8c250c469",
+      "front": "alt",
+      "back": "everything"
+    },
+    {
+      "id": "3c252b53-3feb-4199-8a07-c2522ca34aa8",
+      "front": "opp",
+      "back": "up"
+    },
+    {
+      "id": "9ac93e0c-1c9f-4b73-ab90-87bec98c0398",
+      "front": "sa",
+      "back": "said"
+    },
+    {
+      "id": "29007522-cc7f-4f89-851b-cdc8363d6de2",
+      "front": "hvordan",
+      "back": "how"
+    },
+    {
+      "id": "6ae7a6c8-217e-4727-a997-8b4e7fbac659",
+      "front": "g\u00E5",
+      "back": "go"
+    },
+    {
+      "id": "267ebab9-6a2b-472b-929a-5a79bf4c5e6e",
+      "front": "ingen",
+      "back": "no"
+    },
+    {
+      "id": "0ff6d24f-8392-439d-94fd-da13c54fee95",
+      "front": "n\u00E5r",
+      "back": "when"
+    },
+    {
+      "id": "a83ec857-dd78-417e-b566-d07eb993c503",
+      "front": "eller",
+      "back": "or"
+    },
+    {
+      "id": "e09785b5-38e3-4b9a-bad6-15fe23d68bce",
+      "front": "hvem",
+      "back": "who"
+    },
+    {
+      "id": "e268758b-b4d1-46af-aa1e-0af11d350b03",
+      "front": "f\u00E5r",
+      "back": "get"
+    },
+    {
+      "id": "cbb56dfc-2786-413a-b17e-8ba2dccb9bcb",
+      "front": "seg",
+      "back": "the"
+    },
+    {
+      "id": "4ad30226-7e8b-4191-87be-204872f06825",
+      "front": "la",
+      "back": "let"
+    },
+    {
+      "id": "1f29f7dd-3163-4ab8-9972-3e9627f2788e",
+      "front": "blir",
+      "back": "are"
+    },
+    {
+      "id": "cf3b8836-43ff-4a29-90a6-f12bd15ebbb4",
+      "front": "ser",
+      "back": "see"
+    },
+    {
+      "id": "69b40021-fd79-45f8-92f0-6f0c110ec2c7",
+      "front": "takk",
+      "back": "thanks"
+    },
+    {
+      "id": "e7e838cc-9974-4b98-9328-8e1fd0ec551a",
+      "front": "gj\u00F8re",
+      "back": "do"
+    },
+    {
+      "id": "a4ce4edf-4c3b-4eb1-9b49-63ebe2fde10e",
+      "front": "bli",
+      "back": "be"
+    },
+    {
+      "id": "9df5b2ba-391f-4325-b4f1-1a33a85f9876",
+      "front": "bra",
+      "back": "good"
+    },
+    {
+      "id": "479a3ce2-e4d2-4614-9621-7302eb821813",
+      "front": "hadde",
+      "back": "had"
+    },
+    {
+      "id": "59632001-df54-47ad-8c65-5c335125f0da",
+      "front": "si",
+      "back": "say"
+    },
+    {
+      "id": "704c60ba-33ba-4162-8c5d-172f383db8a0",
+      "front": "denne",
+      "back": "this"
+    },
+    {
+      "id": "78b1a6c8-e7df-447a-aea8-333a97577157",
+      "front": "henne",
+      "back": "her"
+    },
+    {
+      "id": "53bf7e16-4d24-4c1e-92a1-8799a002d7cd",
+      "front": "litt",
+      "back": "a little"
+    },
+    {
+      "id": "c5b1619a-2dcf-4839-8d29-1b37b44e17a2",
+      "front": "inn",
+      "back": "in"
+    },
+    {
+      "id": "59c78cf1-f551-4949-99b4-36ff871b7dd8",
+      "front": "jo",
+      "back": "the"
+    },
+    {
+      "id": "05ac7dda-5b70-4b2c-97cd-e4e34c2032a5",
+      "front": "etter",
+      "back": "by"
+    },
+    {
+      "id": "4630cc22-3c0c-4dd3-bc2a-e99c3d8a52e0",
+      "front": "kunne",
+      "back": "could"
+    },
+    {
+      "id": "cf043a4b-b3ba-4e9f-95b8-afd02300f1de",
+      "front": "vel",
+      "back": "well"
+    },
+    {
+      "id": "514ae0ba-fdc6-4773-bceb-31183f7377ce",
+      "front": "to",
+      "back": "two"
+    },
+    {
+      "id": "89c10c6a-0d78-4768-b16d-436d72d97eab",
+      "front": "skulle",
+      "back": "should"
+    },
+    {
+      "id": "a91e5e05-72d3-48c6-bb71-0626499de6dc",
+      "front": "ved",
+      "back": "by"
+    }
+  ]
+}

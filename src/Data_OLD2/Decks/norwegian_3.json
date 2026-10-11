@@ -1,0 +1,826 @@
+{
+  "id": "norwegian_3",
+  "title": "Norwegian 3",
+  "cards": [
+    {
+      "id": "17a27678-d031-40d6-9611-34f51ef42a3c",
+      "front": "\u00E5 bo",
+      "back": "to live"
+    },
+    {
+      "id": "41267767-9658-4267-9290-a94c9639714e",
+      "front": "ei dame",
+      "back": "a lady"
+    },
+    {
+      "id": "540a25d7-ab0d-43cd-9072-70315814f1cc",
+      "front": "du",
+      "back": "you"
+    },
+    {
+      "id": "64310ccc-1af7-47d0-9563-031375ffef00",
+      "front": "ei",
+      "back": "a, an, one"
+    },
+    {
+      "id": "31f13c1d-f530-437f-8be1-60f9133ecb56",
+      "front": "er",
+      "back": "am, are, is (conjugated)"
+    },
+    {
+      "id": "76a4813a-8b89-4698-8242-2f0c4dcbbd2b",
+      "front": "\u00E5 v\u00E6re",
+      "back": "am, are, is (infinitive), to be, to exist"
+    },
+    {
+      "id": "6af00282-c7ca-4455-8737-3651529856c3",
+      "front": "en familie",
+      "back": "a family"
+    },
+    {
+      "id": "6d5cd23a-30e5-4599-ba8f-75ad07e5b8b7",
+      "front": "fra",
+      "back": "from"
+    },
+    {
+      "id": "8573d8b5-442f-4dfb-b446-4c9d2dda7af7",
+      "front": "gammel",
+      "back": "old"
+    },
+    {
+      "id": "6a0f4c6a-ec11-4b47-a9bd-0813684c765d",
+      "front": "gift",
+      "back": "married"
+    },
+    {
+      "id": "d6b7ff73-f15c-415b-a121-e73381e3a4f8",
+      "front": "\u00E5 ha",
+      "back": "to have"
+    },
+    {
+      "id": "107bc29d-0f2c-4ef6-956b-1bdafb4bfdc8",
+      "front": "han",
+      "back": "he, him"
+    },
+    {
+      "id": "d2f5f469-abe3-4244-a1da-5a79d8f1c743",
+      "front": "\u00E5 hete",
+      "back": "to be called"
+    },
+    {
+      "id": "e115c030-b65a-4ce3-8ac7-65fd3d768987",
+      "front": "hun",
+      "back": "she, her"
+    },
+    {
+      "id": "3d580ae3-3684-4213-981e-5dca3e3f0a58",
+      "front": "hva",
+      "back": "what"
+    },
+    {
+      "id": "b0fdc1d6-5c05-498a-9f97-7745338067c3",
+      "front": "hvor",
+      "back": "where"
+    },
+    {
+      "id": "06fe0745-25e4-4d12-8034-9c7ff8caf4cc",
+      "front": "i",
+      "back": "in, at, on"
+    },
+    {
+      "id": "4ed8e953-05cc-4466-95ba-8d70be6573eb",
+      "front": "ja",
+      "back": "yes"
+    },
+    {
+      "id": "4d69a1af-77a4-4461-a596-4557bfb5d02f",
+      "front": "jeg",
+      "back": "I"
+    },
+    {
+      "id": "29260c61-31f5-4f38-b4da-8f2adee80710",
+      "front": "ei jente",
+      "back": "a girl"
+    },
+    {
+      "id": "fbc2f512-5bfe-490a-aeb8-490f1feba20d",
+      "front": "\u00E5 komme",
+      "back": "to come"
+    },
+    {
+      "id": "7ed99e96-3eca-41bd-8caf-f24a23db801a",
+      "front": "med",
+      "back": "with"
+    },
+    {
+      "id": "8237e4ab-dd79-40e4-a7d9-42330e7dcf5c",
+      "front": "men",
+      "back": "but"
+    },
+    {
+      "id": "ecc2b2db-6aad-4a69-a8d1-93c39191baa0",
+      "front": "Norge",
+      "back": "Norway"
+    },
+    {
+      "id": "130621d2-bb12-4ce2-9431-2fad60b230ca",
+      "front": "og",
+      "back": "and"
+    },
+    {
+      "id": "9572b087-715c-4229-813b-5c7503ed7a0c",
+      "front": "\u00E5 reise",
+      "back": "to travel"
+    },
+    {
+      "id": "ca72a949-e31e-45d0-b947-b6449e0b2c79",
+      "front": "seks",
+      "back": "6"
+    },
+    {
+      "id": "a6c0fdf8-82c3-4d39-a4ae-c273c513c18f",
+      "front": "\u00E5 snakke",
+      "back": "to speak"
+    },
+    {
+      "id": "41e529d0-7ca4-48b0-9c0c-c105f9f59c00",
+      "front": "til",
+      "back": "to"
+    },
+    {
+      "id": "d62e2bd1-1b39-4254-b59e-345afdf3a8e8",
+      "front": "et tog",
+      "back": "a train"
+    },
+    {
+      "id": "50938cb4-ea6f-43a7-b8fa-fb0636a40958",
+      "front": "et \u00E5r",
+      "back": "a year"
+    },
+    {
+      "id": "0aa34098-c376-4d84-8ec3-b6d8808895bd",
+      "front": "null",
+      "back": "0"
+    },
+    {
+      "id": "809ca9a6-5391-4faf-b11a-5d0de7a353db",
+      "front": "en, ei, ett",
+      "back": "1"
+    },
+    {
+      "id": "525e3907-59c6-44b9-9091-84abec3b8ce4",
+      "front": "to",
+      "back": "2"
+    },
+    {
+      "id": "6daae46e-0519-41dd-994c-80e157993ff1",
+      "front": "tre",
+      "back": "3"
+    },
+    {
+      "id": "5e624502-b013-4f1c-9a46-1a237d04ca23",
+      "front": "fire",
+      "back": "4"
+    },
+    {
+      "id": "9543a95f-47fa-4e8e-978c-6e8e1bc91498",
+      "front": "fem",
+      "back": "5"
+    },
+    {
+      "id": "9d04ce8b-13b6-4427-9e2e-c41dfdfb9a7f",
+      "front": "sju, syv",
+      "back": "7"
+    },
+    {
+      "id": "376f9e31-6f2b-4ed7-8c58-e7bfe7598510",
+      "front": "\u00E5tte",
+      "back": "8"
+    },
+    {
+      "id": "476430d3-51fd-4f2a-a64b-c3a88a5b9fc8",
+      "front": "ni",
+      "back": "9"
+    },
+    {
+      "id": "2c8ad4df-7415-47eb-8c84-893121f5ade2",
+      "front": "ti",
+      "back": "10"
+    },
+    {
+      "id": "5c62bcd4-55cb-461e-9167-a04f5cb20bdf",
+      "front": "elleve",
+      "back": "11"
+    },
+    {
+      "id": "8925d6cc-87c3-45d7-894f-cca850bb4fdd",
+      "front": "tolv",
+      "back": "12"
+    },
+    {
+      "id": "0d7345da-5061-4e73-b472-a2ca77993c42",
+      "front": "tretten",
+      "back": "13"
+    },
+    {
+      "id": "9173b7f0-8802-4c62-9513-0445b12a1fd6",
+      "front": "fjorten",
+      "back": "14"
+    },
+    {
+      "id": "fe849320-cfb7-49df-8ccb-bf02a378b06e",
+      "front": "femten",
+      "back": "15"
+    },
+    {
+      "id": "36941433-45ba-4d31-a818-9798b9f26055",
+      "front": "seksten",
+      "back": "16"
+    },
+    {
+      "id": "2a315640-338d-48cd-abf3-04244cb16913",
+      "front": "sytten",
+      "back": "17"
+    },
+    {
+      "id": "b03c9771-ac87-4a39-9daf-7796e842d702",
+      "front": "atten",
+      "back": "18"
+    },
+    {
+      "id": "5898b98e-3826-4f0b-8022-dd2eeef6a83f",
+      "front": "nitten",
+      "back": "19"
+    },
+    {
+      "id": "7b90acab-1aed-4ead-9f49-098fceeeab41",
+      "front": "tjue, tyve",
+      "back": "20"
+    },
+    {
+      "id": "4673b709-5019-40ec-adee-282fb90c1749",
+      "front": "tjueen",
+      "back": "21"
+    },
+    {
+      "id": "84f9e7c2-fbda-4d9a-8717-e99e97dc9028",
+      "front": "tjueto",
+      "back": "22"
+    },
+    {
+      "id": "b06cb201-cf0f-4d30-9ef9-137bbbcdb0bd",
+      "front": "tjuetre",
+      "back": "23"
+    },
+    {
+      "id": "24c0c0ab-aa97-4500-a53c-42c2e2fd5a5d",
+      "front": "tjuefire",
+      "back": "24"
+    },
+    {
+      "id": "f039cabb-cad1-4b91-901d-06792a7ebfef",
+      "front": "tjuefem",
+      "back": "25"
+    },
+    {
+      "id": "60770679-2f8e-4c1a-906d-8ca0ad533b1d",
+      "front": "tjueseks",
+      "back": "26"
+    },
+    {
+      "id": "34b96ab2-ad6a-4594-b3c3-45f9c1d1c764",
+      "front": "tjuesju",
+      "back": "27"
+    },
+    {
+      "id": "a098479f-b395-4e7b-b465-15b2661b033f",
+      "front": "tjue\u00E5tte",
+      "back": "28"
+    },
+    {
+      "id": "931adb69-aafe-4805-9f7e-a577043398e5",
+      "front": "tjueni",
+      "back": "29"
+    },
+    {
+      "id": "c6bcb3ad-2d79-4b8f-a6a4-a28d96061af1",
+      "front": "trette, tredve",
+      "back": "30"
+    },
+    {
+      "id": "198a0422-e574-4e9d-a261-9f1b1e34ad5c",
+      "front": "en antroplogi",
+      "back": "an anthropology"
+    },
+    {
+      "id": "43de0eed-d1a6-4670-8ca6-683ed5ad2454",
+      "front": "en arkitektur",
+      "back": "an architecture"
+    },
+    {
+      "id": "7ea64570-5a59-42c7-9de3-a4ecfa686ac5",
+      "front": "engelsk",
+      "back": "English"
+    },
+    {
+      "id": "8730182e-ee0c-4243-858b-6e57da4518f8",
+      "front": "flink",
+      "back": "good, clever"
+    },
+    {
+      "id": "7cbfafed-cc92-4522-9563-e382697418c5",
+      "front": "et fly",
+      "back": "a plane"
+    },
+    {
+      "id": "ab809b1d-6214-494f-9421-37f19e8d58da",
+      "front": "\u00E5 gj\u00F8re",
+      "back": "to do"
+    },
+    {
+      "id": "201c46c2-39e2-452f-af3d-2ccfd64ecde3",
+      "front": "ikke",
+      "back": "not"
+    },
+    {
+      "id": "73ec105a-53a3-4c0f-aa63-e936fe459962",
+      "front": "Italia",
+      "back": "Italy"
+    },
+    {
+      "id": "089db964-5cbc-4bcb-853b-f4bea87c3959",
+      "front": "italiensk",
+      "back": "Italian"
+    },
+    {
+      "id": "733795f9-f356-43d5-baf8-7f39a3624d8c",
+      "front": "\u00E5 jobbe",
+      "back": "to work"
+    },
+    {
+      "id": "be9cd086-6557-4f7e-b91a-d836f31215b8",
+      "front": "litt",
+      "back": "a little"
+    },
+    {
+      "id": "ba62907d-b590-4b21-b638-1ef2e19ee199",
+      "front": "norsk",
+      "back": "Norwegian"
+    },
+    {
+      "id": "d4902bfb-cd05-44d1-8ae8-be32bbc8b2d6",
+      "front": "ogs\u00E5",
+      "back": "also, too"
+    },
+    {
+      "id": "82267ea4-d2f1-43b6-8f97-c2aa7dff5e86",
+      "front": "en professor",
+      "back": "a professor"
+    },
+    {
+      "id": "143995a7-bded-4bdd-8240-1d9d3f524da7",
+      "front": "p\u00E5",
+      "back": "on, at"
+    },
+    {
+      "id": "9bef1502-3620-459b-ab63-432cf21bb7a5",
+      "front": "Roma",
+      "back": "Rome"
+    },
+    {
+      "id": "4573d9f3-4f06-4597-ab68-90a0c67d0a77",
+      "front": "spansk",
+      "back": "Spanish"
+    },
+    {
+      "id": "50e4f0cb-4b1f-415f-a010-aa4eae1d999e",
+      "front": "en student",
+      "back": "a student"
+    },
+    {
+      "id": "d0c6ec6c-cc51-45ed-b9a1-d0bde7116270",
+      "front": "\u00E5 studere",
+      "back": "to study"
+    },
+    {
+      "id": "d8a1795e-73c7-4c18-a8b9-ec22b81de507",
+      "front": "f\u00F8rti",
+      "back": "40"
+    },
+    {
+      "id": "6a6619fe-6e63-42e2-83f4-19f94e870dab",
+      "front": "femti",
+      "back": "50"
+    },
+    {
+      "id": "afed5257-3dad-4acd-9866-f88cc62e6ba4",
+      "front": "seksti",
+      "back": "60"
+    },
+    {
+      "id": "d63cfe6f-8096-40e3-a13f-8ae721a5f7dd",
+      "front": "sytti",
+      "back": "70"
+    },
+    {
+      "id": "089d05ca-1f46-4180-ada7-1f79e33b1270",
+      "front": "\u00E5tti",
+      "back": "80"
+    },
+    {
+      "id": "c178ff93-a24a-44ff-824c-8a758293518b",
+      "front": "nitti",
+      "back": "90"
+    },
+    {
+      "id": "f63455f1-83b2-4550-8352-f36e4a15ff80",
+      "front": "ett hundre",
+      "back": "100"
+    },
+    {
+      "id": "46fba57a-b8ef-4c3c-b007-13eea8a97da1",
+      "front": "ett hundre og en",
+      "back": "101"
+    },
+    {
+      "id": "d0650a2d-d94e-448b-9828-b21ce5449a80",
+      "front": "to hundre",
+      "back": "200"
+    },
+    {
+      "id": "c6bc6e16-c026-4688-b8de-128815405bea",
+      "front": "tre hundre",
+      "back": "300"
+    },
+    {
+      "id": "96452f35-9273-4e64-9848-afa3ab425ca3",
+      "front": "fire hundre",
+      "back": "400"
+    },
+    {
+      "id": "66791caf-450b-4d31-97e3-12aa4431bdee",
+      "front": "fem hundre",
+      "back": "500"
+    },
+    {
+      "id": "5c2ee58a-1c33-4a33-9721-bf7673e6ae32",
+      "front": "seks hundre",
+      "back": "600"
+    },
+    {
+      "id": "239b0200-bf40-4aa0-95eb-f5d1918eb015",
+      "front": "sju hundre",
+      "back": "700"
+    },
+    {
+      "id": "0cbff1f6-4a48-4743-8922-81ea474cc5cd",
+      "front": "\u00E5tte hundre",
+      "back": "800"
+    },
+    {
+      "id": "c40b6a88-7c7b-4b79-bca6-8fb679d3ae69",
+      "front": "ni hundre",
+      "back": "900"
+    },
+    {
+      "id": "3bafd636-4cd0-4abc-ba78-4c5c48527799",
+      "front": "ett tusen",
+      "back": "1000"
+    },
+    {
+      "id": "0d6b21a4-0d27-479e-ae62-3533b395e834",
+      "front": "ti tusen",
+      "back": "10,000"
+    },
+    {
+      "id": "a86043d6-5145-44b1-a9ca-2418fe3e6a02",
+      "front": "hundre tusen",
+      "back": "100,000"
+    },
+    {
+      "id": "a532fcaf-bf6c-4d91-9410-46dd03a4848b",
+      "front": "en million",
+      "back": "1,000,000"
+    },
+    {
+      "id": "4e598031-e632-4b15-aa90-c24a336aeb3d",
+      "front": "en milliard",
+      "back": "1 billion"
+    },
+    {
+      "id": "2a02cab2-06db-4441-a1c3-b2cd6d0487e2",
+      "front": "bare",
+      "back": "just, only"
+    },
+    {
+      "id": "5413bb67-974d-4fed-a083-0b9b90021ac1",
+      "front": "bare bra!",
+      "back": "just fine!"
+    },
+    {
+      "id": "f59099b7-7181-4e6a-b128-ef63c2945f1c",
+      "front": "bra",
+      "back": "fine, good, well"
+    },
+    {
+      "id": "901afa75-f1c8-40f7-bed3-d2300ea0ea06",
+      "front": "en by",
+      "back": "a city"
+    },
+    {
+      "id": "d7c99664-300a-4243-97a3-034dcce5f2a3",
+      "front": "en b\u00E5t",
+      "back": "a boat"
+    },
+    {
+      "id": "e34dc973-a438-4f53-aada-8c6c216db594",
+      "front": "en dag",
+      "back": "a day"
+    },
+    {
+      "id": "da8bfaac-8389-4fa0-a0fd-cf84a184bfb4",
+      "front": "deg",
+      "back": "you (singular)"
+    },
+    {
+      "id": "4ac75fd1-812f-4d01-acb6-e7c5fa4ab9b2",
+      "front": "den",
+      "back": "it"
+    },
+    {
+      "id": "db0c4b2b-71b8-48bc-81e3-e14b2ec2430d",
+      "front": "det",
+      "back": "it, that, the"
+    },
+    {
+      "id": "ed7edcf7-9f8f-401f-834d-551b0f518743",
+      "front": "det g\u00E5r bra!",
+      "back": "I\u0027m fine!"
+    },
+    {
+      "id": "744bb1c0-8a34-413e-af7e-6890b0f088b9",
+      "front": "god",
+      "back": "good"
+    },
+    {
+      "id": "a3428304-35a9-4670-9868-2f21d9ce751e",
+      "front": "ha det bra!",
+      "back": "goodbye"
+    },
+    {
+      "id": "5ea5e9a9-99b5-49fe-99c4-49a328df0df4",
+      "front": "hallo",
+      "back": "hello"
+    },
+    {
+      "id": "b620077f-596c-4453-8315-5812bb16c953",
+      "front": "her",
+      "back": "here"
+    },
+    {
+      "id": "99cf0148-5d9e-4ead-bb44-6aca9a4896c9",
+      "front": "hilse",
+      "back": "to greet"
+    },
+    {
+      "id": "c4f129d7-d1ce-4ac6-8417-9ef7aaf794b4",
+      "front": "hvordan",
+      "back": "how"
+    },
+    {
+      "id": "1203eb8f-afeb-4561-b310-02bbc527b683",
+      "front": "hyggelig",
+      "back": "nice, pleasant"
+    },
+    {
+      "id": "0e947123-efbb-47af-aa64-6fee621aecaf",
+      "front": "higgelig \u00E5 hilse p\u00E5 deg!",
+      "back": "nice to meet you!"
+    },
+    {
+      "id": "9792adc1-cc44-479f-b100-5dc3ce911546",
+      "front": "kanskje",
+      "back": "perhaps, maybe"
+    },
+    {
+      "id": "7bc7a306-a37e-4fe1-b14d-0f9687172b26",
+      "front": "ledig",
+      "back": "vacant"
+    },
+    {
+      "id": "1b3aad7e-6465-4690-b67f-fabf5dce4519",
+      "front": "en morgen",
+      "back": "a morning"
+    },
+    {
+      "id": "7b8f3a59-16de-4e24-9f1a-59e6cae0d432",
+      "front": "\u00E5 m\u00F8te",
+      "back": "to meet"
+    },
+    {
+      "id": "7c5faee0-d39b-4fd3-aae6-06c36351de28",
+      "front": "nei",
+      "back": "no"
+    },
+    {
+      "id": "3ac9168d-4636-438b-89f5-38b08a5a8d15",
+      "front": "neste",
+      "back": "next"
+    },
+    {
+      "id": "d314c8d2-ca54-4fcb-91d4-2ecb881b2a13",
+      "front": "n\u00E5",
+      "back": "now"
+    },
+    {
+      "id": "caa8c21d-96a6-404b-9044-2c583973754c",
+      "front": "seinere",
+      "back": "later"
+    },
+    {
+      "id": "83fa2477-9f13-4293-ba0b-fdfbf9fea7b7",
+      "front": "\u00E5 ses",
+      "back": "to see one another"
+    },
+    {
+      "id": "ddee42b8-b700-453b-a2ae-e40c30f39370",
+      "front": "snart",
+      "back": "soon"
+    },
+    {
+      "id": "c526e6a8-6773-4e18-8a1b-6a8c89d8152d",
+      "front": "s\u00E5",
+      "back": "so"
+    },
+    {
+      "id": "0f9eb12f-4536-42b2-b614-f1bdf8c65dc6",
+      "front": "takk",
+      "back": "thank you"
+    },
+    {
+      "id": "63a7364e-3f95-4075-b022-194930e36cb5",
+      "front": "en turist",
+      "back": "a tourist"
+    },
+    {
+      "id": "1f9cd430-aa74-410a-9de7-60960192c991",
+      "front": "unnskyld",
+      "back": "excuse me"
+    },
+    {
+      "id": "ff290ff9-dcf6-4bcd-93dc-82bcf2bd73ab",
+      "front": "vi",
+      "back": "we"
+    },
+    {
+      "id": "916e7d0f-2f72-4c3f-a4cc-75e08f58e1c1",
+      "front": "v\u00E6r s\u00E5 god!",
+      "back": "you\u0027re welcome!"
+    },
+    {
+      "id": "e368faef-84f9-4a1f-8a37-82810fdd0def",
+      "front": "ei avis",
+      "back": "a newspaper"
+    },
+    {
+      "id": "f38d1baa-54b1-4807-8439-01038f647e9d",
+      "front": "en bensinstasjon",
+      "back": "a gas station"
+    },
+    {
+      "id": "426ac639-847d-44f3-9d47-afed7c819ad6",
+      "front": "en bil",
+      "back": "a car"
+    },
+    {
+      "id": "d8b776ca-a2b2-4b97-911d-f892c399258d",
+      "front": "\u00E5 bli",
+      "back": "to become, will be, turn out"
+    },
+    {
+      "id": "f8b246bc-850f-4686-8527-0d4b9c5f308e",
+      "front": "en brus",
+      "back": "a (bottle of) soda"
+    },
+    {
+      "id": "6ba24af5-6288-4986-b074-64bad6685b40",
+      "front": "de",
+      "back": "they"
+    },
+    {
+      "id": "072fa70d-9060-429b-992f-da32120481cb",
+      "front": "der",
+      "back": "there"
+    },
+    {
+      "id": "293a0cb0-f80b-488e-9e1f-15b342c7a618",
+      "front": "der borte",
+      "back": "over there"
+    },
+    {
+      "id": "6a9e6eb9-d7c2-4a95-b812-3e378f30acc3",
+      "front": "dere",
+      "back": "you (plural)"
+    },
+    {
+      "id": "c151eb30-5f1e-477b-8410-da4643b66dfa",
+      "front": "en ekspedit\u00F8r",
+      "back": "a shop assistant"
+    },
+    {
+      "id": "e763263c-80bf-4681-99f5-2d2f143b0ca6",
+      "front": "en",
+      "back": "a, an, one"
+    },
+    {
+      "id": "fb9200ea-327f-4e2a-a733-2bc8981b7549",
+      "front": "et",
+      "back": "a, an"
+    },
+    {
+      "id": "87be49f2-85ba-44c6-96c3-93735461d9a8",
+      "front": "god tur!",
+      "back": "have a nice trip!"
+    },
+    {
+      "id": "7c679a13-81ec-4047-a53a-9538e71c2074",
+      "front": "hvor langt",
+      "back": "how far"
+    },
+    {
+      "id": "2ba545ae-2596-4cdd-8ca0-004ccbd57e34",
+      "front": "et kart",
+      "back": "a map"
+    },
+    {
+      "id": "12741408-b7c6-43a1-bc52-1192716cdced",
+      "front": "en kilometer",
+      "back": "a kilometre"
+    },
+    {
+      "id": "d9174499-0733-4bf7-b75c-a53e635da706",
+      "front": "\u00E5 koste",
+      "back": "to cost"
+    },
+    {
+      "id": "327f17e8-f7bb-418a-b335-8384b081f703",
+      "front": "ei krone",
+      "back": "a crown"
+    },
+    {
+      "id": "d73c57d8-9dd0-4835-b303-462e2863b6d2",
+      "front": "langt",
+      "back": "far"
+    },
+    {
+      "id": "aafd3e7f-1f2f-4da4-9761-6ff8cf43a45d",
+      "front": "over",
+      "back": "of, over"
+    },
+    {
+      "id": "b35234ce-1217-4367-ba6f-9440f4767fd7",
+      "front": "sammen",
+      "back": "together"
+    },
+    {
+      "id": "e37afd29-571b-4a10-9119-76c8b323c3a6",
+      "front": "\u00E5 stoppe",
+      "back": "to stop"
+    },
+    {
+      "id": "f651b612-475c-4bbd-af75-4aec1f6411fa",
+      "front": "\u00E5 ta",
+      "back": "to take"
+    },
+    {
+      "id": "31e4611a-f237-480a-9f3a-10cc5c981a8a",
+      "front": "tilbake",
+      "back": "back"
+    },
+    {
+      "id": "8c518ee9-0f5d-4696-aaee-a3e5e0739764",
+      "front": "en tur",
+      "back": "a trip"
+    },
+    {
+      "id": "b2e9f126-651d-4478-90dd-b7e7e2a79900",
+      "front": "tusen",
+      "back": "thousand"
+    },
+    {
+      "id": "1cd199a0-4b50-4573-a8ee-47b7ebb44619",
+      "front": "tysk",
+      "back": "German"
+    },
+    {
+      "id": "6278994f-da2a-4d90-9c2d-d875232998ff",
+      "front": "Tyskland",
+      "back": "Germany"
+    },
+    {
+      "id": "4482ed20-e6b4-435c-b55d-0b3f0374ee1c",
+      "front": "velkommen",
+      "back": "welcome"
+    }
+  ]
+}

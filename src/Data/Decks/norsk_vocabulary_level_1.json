@@ -1,0 +1,356 @@
+{
+  "id": "norsk_vocabulary_level_1",
+  "title": "Norsk Vocabulary Level 1",
+  "cards": [
+    {
+      "id": "9458e725-d35d-4889-886a-424f01126c61",
+      "front": "bodde",
+      "back": "lived"
+    },
+    {
+      "id": "0fe5a949-68a9-4b8b-a779-240eb2cb882f",
+      "front": "syd",
+      "back": "south"
+    },
+    {
+      "id": "ddd0281b-dee8-43a0-8b6c-35a9a26f44ed",
+      "front": "pole",
+      "back": "pole"
+    },
+    {
+      "id": "db5ea540-ae9d-479d-b840-d57346213325",
+      "front": "is",
+      "back": "ice"
+    },
+    {
+      "id": "14bb0738-299e-4b7c-8f6e-7ac82f38c72a",
+      "front": "sn\u00F8",
+      "back": "snow"
+    },
+    {
+      "id": "7af17dc2-3e63-4243-b345-6c576cb9b9ed",
+      "front": "vann",
+      "back": "water"
+    },
+    {
+      "id": "82c70dcc-9183-487c-a71b-b794dc5b088a",
+      "front": "hele",
+      "back": "all"
+    },
+    {
+      "id": "8cc93160-2883-4e3e-afee-3b0da66c084d",
+      "front": "\u00E5ret",
+      "back": "year"
+    },
+    {
+      "id": "0e2036c5-3344-4ca2-9fa7-411a43098b45",
+      "front": "selv om",
+      "back": "even though/although"
+    },
+    {
+      "id": "d30e3e96-18f3-421b-ac81-03340ad03574",
+      "front": "pingvin",
+      "back": "pinguin"
+    },
+    {
+      "id": "280113ae-31a1-4ed3-aff0-cd48e59612ce",
+      "front": "var",
+      "back": "was"
+    },
+    {
+      "id": "00c8f3c7-a6cd-4f66-a817-d92774847d05",
+      "front": "mest",
+      "back": "most"
+    },
+    {
+      "id": "a501a6df-7291-4072-b1b4-d4217479c232",
+      "front": "sammen",
+      "back": "together"
+    },
+    {
+      "id": "f45d319a-ba81-4019-b976-3bc25306ac3c",
+      "front": "mest sammen med",
+      "back": "mostly with"
+    },
+    {
+      "id": "744b9a45-589d-439a-94f2-884319b9ea8f",
+      "front": "andre",
+      "back": "other"
+    },
+    {
+      "id": "fa16ec2c-31a9-412b-9611-016dbef52964",
+      "front": "dyr",
+      "back": "animals"
+    },
+    {
+      "id": "dcc3b760-398e-4668-bac9-dbdd20c6d3cb",
+      "front": "for",
+      "back": "for"
+    },
+    {
+      "id": "13ca4771-48ae-42fa-a0e9-6ceec39b2833",
+      "front": "de",
+      "back": "they"
+    },
+    {
+      "id": "c33a311f-3ddd-43ff-9433-aefa4a03292c",
+      "front": "kunne",
+      "back": "could"
+    },
+    {
+      "id": "8f894278-289d-4a84-be1f-926d1ff49e13",
+      "front": "s\u00E5",
+      "back": "so"
+    },
+    {
+      "id": "1dc6ad02-5380-427f-8f99-78bbd078da3a",
+      "front": "mange",
+      "back": "many"
+    },
+    {
+      "id": "640013ae-ed00-4f48-9007-2c2ab473ff8c",
+      "front": "morsomme",
+      "back": "funny"
+    },
+    {
+      "id": "4b6e90f3-4428-4851-9292-c5cd9e89c0d5",
+      "front": "leker",
+      "back": "plays/playing"
+    },
+    {
+      "id": "94c90e31-79af-4f80-9b69-198e3ecccd99",
+      "front": "de kunne s\u00E5 mange morsomme leker",
+      "back": "they could have so much fun playing"
+    },
+    {
+      "id": "7b2672e9-c766-4219-bf75-e37981107126",
+      "front": "fant",
+      "back": "found"
+    },
+    {
+      "id": "6560b864-4957-42aa-ac3b-124d0f8a993f",
+      "front": "alltid",
+      "back": "always"
+    },
+    {
+      "id": "d6e316d7-b2cf-4a7c-8f02-3d9263018a3c",
+      "front": "noe",
+      "back": "something"
+    },
+    {
+      "id": "7b7fe54d-ee0f-4615-a001-be52a4f4d795",
+      "front": "spennende",
+      "back": "exciting"
+    },
+    {
+      "id": "9ba1310d-93d6-42ef-a104-83c98c7d9d07",
+      "front": "fant alltid p\u00E5 noe spennende",
+      "back": "always found something exciting"
+    },
+    {
+      "id": "e159ed7c-0b42-4bb5-9f39-b2dec8e11d21",
+      "front": "Sn\u00F8-harene",
+      "back": "snow hares"
+    },
+    {
+      "id": "bc60a24e-e402-4c62-bc32-a8ebbbddee01",
+      "front": "for eksempel",
+      "back": "for example"
+    },
+    {
+      "id": "a5ff193f-b822-412d-ad6d-ffca26c0199b",
+      "front": "l\u00E6rte",
+      "back": "taught"
+    },
+    {
+      "id": "98e98072-3a37-4ceb-af13-80cf0bf30237",
+      "front": "henne",
+      "back": "her"
+    },
+    {
+      "id": "4ab15b6f-1a52-4e9c-ab43-3a9bab305ad3",
+      "front": "\u00E5",
+      "back": "to"
+    },
+    {
+      "id": "452c6cf4-d4bf-4a5b-b99d-466e1b670a01",
+      "front": "sk\u00F8yte",
+      "back": "skate"
+    },
+    {
+      "id": "6a5130c4-89f8-486f-803c-5ed708dfb22a",
+      "front": "p\u00E5",
+      "back": "on"
+    },
+    {
+      "id": "002a760c-23cb-4f17-9bf9-d37b5f1cd0fb",
+      "front": "isen",
+      "back": "the ice"
+    },
+    {
+      "id": "b35f0dc5-1417-4aaf-bd19-d02c31bcd8d1",
+      "front": "aldri",
+      "back": "never"
+    },
+    {
+      "id": "bf217501-1efe-4f7d-9559-92920d4ae4ba",
+      "front": "trodd",
+      "back": "thought (believed)"
+    },
+    {
+      "id": "ae02b852-f8af-4092-a4d6-bf09cde8106a",
+      "front": "at",
+      "back": "that"
+    },
+    {
+      "id": "9f834f0c-a7d7-4beb-95d7-1097c1ca504b",
+      "front": "det",
+      "back": "it (the)"
+    },
+    {
+      "id": "48b0adeb-9bf6-4e78-8854-2a60d958d3cd",
+      "front": "lett",
+      "back": "easy"
+    },
+    {
+      "id": "9b1fffde-0284-444e-9632-85bb4c156b45",
+      "front": "venner",
+      "back": "friends"
+    },
+    {
+      "id": "c244ec92-49be-4b5a-a96e-dfe567293216",
+      "front": "fant",
+      "back": "found"
+    },
+    {
+      "id": "f9a0617b-1149-45b6-a122-cc4a05c253d4",
+      "front": "p\u00E5",
+      "back": "out (on)"
+    },
+    {
+      "id": "235ad821-0570-4c89-8bb4-0946b6c0e4bd",
+      "front": "de",
+      "back": "the"
+    },
+    {
+      "id": "10ba0859-0ade-4150-a847-0a4afb071173",
+      "front": "rareste",
+      "back": "oddest"
+    },
+    {
+      "id": "eeedf3e7-3657-4061-bd53-d480e91d1216",
+      "front": "ting",
+      "back": "thing"
+    },
+    {
+      "id": "34110c49-7c8f-41f3-bb18-5e39d1f7d06c",
+      "front": "men",
+      "back": "but"
+    },
+    {
+      "id": "ce3a229a-5beb-41fe-baad-5ef4af3f1174",
+      "front": "redd",
+      "back": "afraid"
+    },
+    {
+      "id": "35c73273-d105-4fa9-9735-29e84a25f6d1",
+      "front": "\u00E5 pr\u00F8ve",
+      "back": "to try"
+    },
+    {
+      "id": "349609cd-8d6f-4d34-9d52-2283c93c07a0",
+      "front": "noe",
+      "back": "something"
+    },
+    {
+      "id": "dcda9c9f-650e-45a7-9a22-8f4062174c97",
+      "front": "nytt",
+      "back": "new"
+    },
+    {
+      "id": "23f09285-dab0-4298-b261-5b0412256e89",
+      "front": "nok",
+      "back": "enough"
+    },
+    {
+      "id": "c4224561-e382-4632-b961-c8777fcaa01d",
+      "front": "det var nok",
+      "back": "it is enough"
+    },
+    {
+      "id": "69278245-d92a-4086-a3aa-9d9540d978fa",
+      "front": "derfor",
+      "back": "therefore"
+    },
+    {
+      "id": "be7c12c6-c288-4dba-9052-0339096977b8",
+      "front": "l\u00E6rte",
+      "back": "learned"
+    },
+    {
+      "id": "2a114cc9-665d-4c1f-b118-9d67b4e3f6d5",
+      "front": "alt",
+      "back": "everything"
+    },
+    {
+      "id": "c1140058-f2cc-4b29-8ba7-e72720b4c2e8",
+      "front": "fort",
+      "back": "fast"
+    },
+    {
+      "id": "6fad0466-c975-490e-b69a-2a1c24c50f0c",
+      "front": "kunne",
+      "back": "could"
+    },
+    {
+      "id": "53c53454-e83b-454c-bbc1-64c922352146",
+      "front": "gj\u00F8re",
+      "back": "fo"
+    },
+    {
+      "id": "80fd2693-9336-4a0c-9336-8ed1340955d1",
+      "front": "samme",
+      "back": "same"
+    },
+    {
+      "id": "a10abb71-e2de-4954-8ebb-44fc7349fee0",
+      "front": "som",
+      "back": "as"
+    },
+    {
+      "id": "1f57e805-ff65-482d-bde2-bcc81b61d1ce",
+      "front": "vennene",
+      "back": "friends"
+    },
+    {
+      "id": "17b49713-8dd7-43e9-bf67-bc27bcbda050",
+      "front": "sine",
+      "back": "their"
+    },
+    {
+      "id": "a0754e4e-d6bf-4cbb-9322-a0fa6fc3d59b",
+      "front": "hun kunne gj\u00F8re det samme som vennene sine",
+      "back": "she could do the same as her friends"
+    },
+    {
+      "id": "03ae9cc1-1530-4d9e-934a-7397f97a20fa",
+      "front": "Noen",
+      "back": "some"
+    },
+    {
+      "id": "918de18b-df2f-426f-a861-46155c28c3df",
+      "front": "ganger",
+      "back": "times"
+    },
+    {
+      "id": "deeeb04b-3479-46e1-8ec1-ea141f4a9d0b",
+      "front": "n\u00E5r",
+      "back": "when"
+    },
+    {
+      "id": "e19b789b-bc76-4506-9013-1477f43ef81a",
+      "front": "sk\u00F8yter om kapp",
+      "back": "skated a race"
+    }
+  ]
+}

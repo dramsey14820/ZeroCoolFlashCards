@@ -1,0 +1,41 @@
+{
+  "id": "norsk_conjunctions_adjectives_etc",
+  "title": "Norsk Conjunctions Adjectuves etc",
+  "cards": [
+    {
+      "id": "7e2538de-d321-45b6-888b-b1130d3e25e7",
+      "front": "Eller",
+      "back": "Or"
+    },
+    {
+      "id": "2eab322d-07c4-4e23-86a1-4679c11557fe",
+      "front": "Men",
+      "back": "but"
+    },
+    {
+      "id": "7be02681-af34-4809-90b5-a4be57de5fac",
+      "front": "for",
+      "back": "for"
+    },
+    {
+      "id": "2d495191-5949-44d9-b0b6-19558af48e05",
+      "front": "og",
+      "back": "and"
+    },
+    {
+      "id": "1b4068da-788a-4358-8244-83979d2f7a30",
+      "front": "s\u00E5",
+      "back": "so"
+    },
+    {
+      "id": "edd9bbc4-6191-4b43-81e1-95fc45327732",
+      "front": "veldig",
+      "back": "very"
+    },
+    {
+      "id": "f86b8b2e-2c6f-42c0-9cf9-955fae51c447",
+      "front": "utrolig",
+      "back": "incredible"
+    }
+  ]
+}

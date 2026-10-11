@@ -1,0 +1,486 @@
+{
+  "id": "norwegian_json",
+  "title": "Norwegian 1",
+  "cards": [
+    {
+      "id": "2b490455-f37d-4bb0-aa66-09c717304778",
+      "front": "Hva er galt?",
+      "back": "What is wrong?"
+    },
+    {
+      "id": "2bd29a26-983b-405b-8687-6bf9ec1da445",
+      "front": "Hvem er det?",
+      "back": "Who is that"
+    },
+    {
+      "id": "66a89430-43b4-4b38-8d67-974fefdd3025",
+      "front": "N\u00E5r kommer toget",
+      "back": "When is the train coming?"
+    },
+    {
+      "id": "89ed3b08-e92a-4337-b67b-3eb7a95df361",
+      "front": "Hvordan er salaten",
+      "back": "How is the salad?"
+    },
+    {
+      "id": "894157e3-f853-4b53-bba1-d51c5c7f68f0",
+      "front": "Hvor mye er det",
+      "back": "How much is it"
+    },
+    {
+      "id": "6063f75f-069a-4a4c-9b26-2b09b2e642f8",
+      "front": "Hvor mye Koster det?",
+      "back": "How much does it cost?"
+    },
+    {
+      "id": "ca45c3b2-52ba-46a7-ba1e-0165e6ac9963",
+      "front": "Hvor er toalettet",
+      "back": "Where is the bathroom"
+    },
+    {
+      "id": "b81fafa2-1b66-4aa9-acb4-449bbafa6cf7",
+      "front": "Hvor er en taxi?",
+      "back": "Where is a taxi?"
+    },
+    {
+      "id": "b633a77b-a948-4277-8653-00ceeeff44fd",
+      "front": "Hvor er en bus?",
+      "back": "Where is a bus?"
+    },
+    {
+      "id": "2c7d7bd4-d8c5-4860-820d-dcbff1645d3e",
+      "front": "Hvor er en restaurant?",
+      "back": "Where is a restaurant?"
+    },
+    {
+      "id": "0c91d304-212f-46d6-b7de-2a1df0266f3b",
+      "front": "Hvor er en hotell?",
+      "back": "Where is a hotel?"
+    },
+    {
+      "id": "f3fff535-521f-416d-9e96-99bffae92094",
+      "front": "Vaer s\u00E5 snill",
+      "back": "Please ( be so kind )"
+    },
+    {
+      "id": "d51efdc9-13ec-4905-9bae-8552cf490328",
+      "front": "Takk for maten.",
+      "back": "Thank you for food."
+    },
+    {
+      "id": "09d723f9-a486-406e-8129-cd6d2bfa8004",
+      "front": "Vaer s\u00E5 god",
+      "back": "You are welcome (be so good)"
+    },
+    {
+      "id": "1f16c690-4455-4bc1-a465-087dc8304d35",
+      "front": "God ettermiddag.",
+      "back": "Good afternoon."
+    },
+    {
+      "id": "2fa7a082-306d-46d4-a678-f0fce4e380fe",
+      "front": "Natta!",
+      "back": "Good night."
+    },
+    {
+      "id": "ff9168ac-1b55-4d21-8b02-8449205d06e3",
+      "front": "Hvor gammel er du?",
+      "back": "How old are you?"
+    },
+    {
+      "id": "2bd621c4-0e8f-4b8b-bc9c-07d77487d9d6",
+      "front": "Takk for sist.",
+      "back": "Thanks for last time."
+    },
+    {
+      "id": "54c3679a-76f0-4689-8fd1-8805b4b7c361",
+      "front": "Det g\u00E5r bra, takk",
+      "back": "It goes well, thank you."
+    },
+    {
+      "id": "90fee072-7d6d-4476-8e93-4a3f4bf5d70e",
+      "front": "Ikke s\u00E5 verst",
+      "back": "Not bad"
+    },
+    {
+      "id": "f023cf65-908e-4658-8bf1-a2fe8cd662e9",
+      "front": "Og hvordan har du det?",
+      "back": "And how are you doing?"
+    },
+    {
+      "id": "36024451-b740-4fcb-906e-863f5fd3ab8c",
+      "front": "Takk,veldig bra",
+      "back": "Thank you, very good"
+    },
+    {
+      "id": "1ae831a1-adbc-47d6-8fc5-29fe75ab5b48",
+      "front": "Ha det bra",
+      "back": "See you"
+    },
+    {
+      "id": "42f6e2f4-eff0-4c20-bda8-5f667f201f87",
+      "front": "God natt",
+      "back": "good night"
+    },
+    {
+      "id": "825fbff8-d372-47f3-bdcd-e2bb4a2e20fc",
+      "front": "God morgen",
+      "back": "Good morning"
+    },
+    {
+      "id": "b880b04e-e540-455b-a775-f52df1f3c3c1",
+      "front": "God dag",
+      "back": "Good day"
+    },
+    {
+      "id": "f2e78fd6-e574-4510-b8b8-f6bd9e969498",
+      "front": "God kveld",
+      "back": "Good evening"
+    },
+    {
+      "id": "2bbbda18-3dd9-4d9e-98ab-47cbff6fa3c6",
+      "front": "Det er David",
+      "back": "It is David"
+    },
+    {
+      "id": "1f6369ca-7e45-43e5-b9ed-4d92825e33e7",
+      "front": "Jeg vil gjerne ...",
+      "back": "I would like ..."
+    },
+    {
+      "id": "b0fb4f81-07c6-43af-9785-4ced678b3455",
+      "front": "Ikke i dag.",
+      "back": "Not today."
+    },
+    {
+      "id": "739ba7e3-e215-4cd3-88df-8f45f0c4fef3",
+      "front": "Hvorfor ikke?",
+      "back": "Why not?"
+    },
+    {
+      "id": "f46d6079-7d66-4be6-8e6e-cd8bed3ae150",
+      "front": "Det er fredag i dag.",
+      "back": "It is Friday to day."
+    },
+    {
+      "id": "672be97b-6a37-4ec3-a030-6764615a1af7",
+      "front": "Jeg jobber.",
+      "back": "I work."
+    },
+    {
+      "id": "848333f7-7e4a-4460-8fc2-e02f0d695458",
+      "front": "Hva med ....",
+      "back": "What about ..."
+    },
+    {
+      "id": "88800d8a-01b5-41c2-9939-329366fd948c",
+      "front": "Hva med i morgen?",
+      "back": "What about tomorrow?"
+    },
+    {
+      "id": "412cfcdb-6a68-4ca9-b093-1382c8b54a64",
+      "front": "Det er l\u00F8rdag i dag.",
+      "back": "It is Saturday today"
+    },
+    {
+      "id": "c5bf00df-7788-4cce-8b3f-428ea9dac64a",
+      "front": "Jeg vil gjerne treffe deg.",
+      "back": "I would like to meet you."
+    },
+    {
+      "id": "c2c779df-1182-4d7c-b100-dfe630956ed6",
+      "front": "N\u00E5r skal jeg treffe deg?",
+      "back": "When shall I meet you?"
+    },
+    {
+      "id": "25c3a824-4e58-4b47-b885-c2e0ce622431",
+      "front": "Hvor skal jeg treffe deg?",
+      "back": "Where shall I meet you?"
+    },
+    {
+      "id": "fa35d0bd-dd61-4f22-bdc5-6e200c6028fb",
+      "front": "Jeg skal treffe deg ved Stortinget i morgen.",
+      "back": "I shall meet you by the Stortinget tomorrow."
+    },
+    {
+      "id": "97ecd7e1-a55f-440a-9b39-bfd0e19df47b",
+      "front": "Ikke s\u00E5 bra.",
+      "back": "Not so good."
+    },
+    {
+      "id": "f2fa408f-f82b-469f-af99-5cb443f29cbe",
+      "front": "Kommer du fra Bergen, David?",
+      "back": "Do you come from Bergen, David?"
+    },
+    {
+      "id": "8740410c-b836-4080-8367-bbc48db25f8c",
+      "front": "Jeg kommer fra Bergen.",
+      "back": "I come from Bergen."
+    },
+    {
+      "id": "23dc6e06-8465-4cff-b845-3b25a48e0fdb",
+      "front": "Jeg kommer fra Oslo.",
+      "back": "I come from Oslo."
+    },
+    {
+      "id": "5f0a822a-0322-473c-8a61-f839f8d1c606",
+      "front": "Bor du p\u00E5 hotell?",
+      "back": "Do you stay in a hotel?"
+    },
+    {
+      "id": "6cbc7ef8-b065-4112-bc4a-121e589c3291",
+      "front": "Jeg bor p\u00E5 hotell.",
+      "back": "I stay at a hotel."
+    },
+    {
+      "id": "514b0d74-4b6f-40f3-8294-514d7fd91aaf",
+      "front": "Og du?",
+      "back": "And you?"
+    },
+    {
+      "id": "df6d5544-0c42-4f89-960b-7158f7e2866e",
+      "front": "I bor ikke p\u00E5 hotell!",
+      "back": "I\u0027m not staying at a hotel!"
+    },
+    {
+      "id": "2404a049-65d8-469c-9ef6-5802e3a34a0b",
+      "front": "Har du bil?",
+      "back": "Do you have a car?"
+    },
+    {
+      "id": "fc588851-b806-4f6d-a7be-2059a972d2aa",
+      "front": "Nei, I har ikke bil.",
+      "back": "No, I do not have a car."
+    },
+    {
+      "id": "169aebec-1031-4741-b6ba-6bd452fa96c7",
+      "front": "Jeg har bil i Bergen.",
+      "back": "I have a car in Bergen."
+    },
+    {
+      "id": "8622adbd-386b-4bfb-b316-0aaaaf260618",
+      "front": "Jeg har ikke bil i Oslo.",
+      "back": "I don\u0027t have a car in Oslo."
+    },
+    {
+      "id": "5d9c39ad-29df-4e5a-a716-33a0834c6af3",
+      "front": "Bor du i Oslo?",
+      "back": "Do you live in Oslo?"
+    },
+    {
+      "id": "bf447725-cfb8-42f1-8d9f-2a4b0f73e3f0",
+      "front": "Jeg bor i Bergen",
+      "back": "I live in Bergen."
+    },
+    {
+      "id": "ca110364-dffa-4ea5-adc7-2d76f98c8f0e",
+      "front": "Er du p\u00E5 ferie her?",
+      "back": "Are you on holiday here?"
+    },
+    {
+      "id": "e1c1ab96-a7f9-4c16-bf02-d244e2dfac43",
+      "front": "Jeg er p\u00E5 ferie her.",
+      "back": "I am on holiday here."
+    },
+    {
+      "id": "b7fb7d15-4825-4094-8711-6030e6d99333",
+      "front": "Jeg bor her.",
+      "back": "I live here."
+    },
+    {
+      "id": "3fcbf8cf-b83f-44bb-9e84-cffa72b57f1e",
+      "front": "Hvordan g\u00E5r det?",
+      "back": "How is it going?"
+    },
+    {
+      "id": "fe4d8999-fa7c-4a5b-ad8e-6cdc09f82868",
+      "front": "Det g\u00E5r bra, takk.",
+      "back": "It goes well, thank you."
+    },
+    {
+      "id": "4a1d467c-62a8-426a-9930-dbd27e9efa6e",
+      "front": "Ikke s\u00E5 verst.",
+      "back": "Not so bad."
+    },
+    {
+      "id": "09dc7bf9-1afa-4dbf-818d-da10d8d4b46c",
+      "front": "Han spiser.",
+      "back": "He is eating"
+    },
+    {
+      "id": "8294b780-eda0-4588-84fc-5bea80416fdc",
+      "front": "Spiser han?",
+      "back": "Is he eating?"
+    },
+    {
+      "id": "3ec1b384-bd32-49f6-90cf-6a1eecf9feaf",
+      "front": "Du bor i Bergen.",
+      "back": "You live in Bergen."
+    },
+    {
+      "id": "db01968b-47ed-479a-b9a1-4111985195f9",
+      "front": "Bor du i Bergen?",
+      "back": "Do you live in Bergen?"
+    },
+    {
+      "id": "f7b8f11a-0d2a-496e-a20f-88f49286117a",
+      "front": "Han leser b\u00F8ker.",
+      "back": "He reads books."
+    },
+    {
+      "id": "2ada0385-d00c-4aaf-94ca-9eb416532e64",
+      "front": "Leser han b\u00F8ker?",
+      "back": "Does he read books?"
+    },
+    {
+      "id": "526562cb-8482-4089-b638-5669c24fb7f9",
+      "front": "Vi bor i Oslo.",
+      "back": "We live in Oslo."
+    },
+    {
+      "id": "6caa24a3-db21-4534-bb84-73c5bcb2f901",
+      "front": "Bor vi i Oslo",
+      "back": "Do you live in Oslo?"
+    },
+    {
+      "id": "8a3ad033-0298-4027-ac25-14dbd699f4de",
+      "front": "De snakker norsk.",
+      "back": "They are speaking Norwegian."
+    },
+    {
+      "id": "24d1876a-2805-4bb9-80ee-60bf79ff267e",
+      "front": "Snakker de norsk?",
+      "back": "Are they speaking Norwegian?"
+    },
+    {
+      "id": "d48b58a2-05e3-489d-a045-b3bf316cd571",
+      "front": "Hun har b\u00F8ker.",
+      "back": "She has books."
+    },
+    {
+      "id": "20c8fb39-9246-452a-b25e-8488cc8d145e",
+      "front": "Har hun b\u00F8ker?",
+      "back": "Does she have books?"
+    },
+    {
+      "id": "db93ce79-bf83-476e-a4b0-a3de03403795",
+      "front": "Svein jobber i butikk.",
+      "back": "Svein works in a shop."
+    },
+    {
+      "id": "34e158c5-cab8-4a8b-aaad-6e8b96136208",
+      "front": "Jobber Svein i butikk?",
+      "back": "Does Svein work in a shop?"
+    },
+    {
+      "id": "14bb5c94-53ed-4493-924e-1b53cc99f3b2",
+      "front": "Tom sover.",
+      "back": "Tom is sleeping."
+    },
+    {
+      "id": "72896e48-4f51-4f4a-8999-85b7e64928f9",
+      "front": "Sover Tom?",
+      "back": "Is Tom sleeping?"
+    },
+    {
+      "id": "e8cce67b-0879-40a8-9b9c-ce239053f1ad",
+      "front": "Hun heter Anna.",
+      "back": "Her name is Anna."
+    },
+    {
+      "id": "f3d39b3a-af77-46c0-9702-4fdc44128906",
+      "front": "Heter hun Anna?",
+      "back": "Is her name Anna?"
+    },
+    {
+      "id": "d7d9b3ed-87fa-4ef2-b443-42955f348e6c",
+      "front": "Svein forst\u00E5r norsk.",
+      "back": "Svein understands Norwegian."
+    },
+    {
+      "id": "b04d8b85-c612-4a3e-a796-90930dcbbca2",
+      "front": "Forst\u00E5r Svein norsk?",
+      "back": "Does Svein understand Norwegian?"
+    },
+    {
+      "id": "42fbc10e-4e94-4639-93db-fc35d68a52c0",
+      "front": "Har han b\u00F8ker?",
+      "back": "Does he have books?"
+    },
+    {
+      "id": "a9eed159-6b6b-4472-9449-55515770f52d",
+      "front": "Jobber Svein i butikk?",
+      "back": "Does Svein work in a shop?"
+    },
+    {
+      "id": "5201eeeb-e06a-4a52-8a3a-fdb18a760f31",
+      "front": "Forst\u00E5r Svein norsk?",
+      "back": "Does Svein understand Norwegian?"
+    },
+    {
+      "id": "c21c8e1f-898b-484d-a840-b8720b9cf9bb",
+      "front": "Anita jobber.",
+      "back": "Anita works."
+    },
+    {
+      "id": "59873411-26ac-4ba3-9c93-00595e71f433",
+      "front": "Jobber Anita?",
+      "back": "Does Anita work?"
+    },
+    {
+      "id": "e5022897-c81f-4845-a89b-1b555b1ec0d8",
+      "front": "Hvor jobber Anita?",
+      "back": "Where does Anita work?"
+    },
+    {
+      "id": "066cb97b-4c51-4bf4-b9d0-cd7a698198df",
+      "front": "Hva jobber Anita med?",
+      "back": "What does Anita do?"
+    },
+    {
+      "id": "db7c1afd-f0bb-4d27-9326-7826776a9f4e",
+      "front": "Line spiser.",
+      "back": "Line is eating."
+    },
+    {
+      "id": "d52e3b4d-3395-48c5-81e1-3d8e465b31b3",
+      "front": "Spiser Line?",
+      "back": "Is Line eating?"
+    },
+    {
+      "id": "fef2f436-d243-4ba3-9e27-a600bf82336d",
+      "front": "Hva spiser Line?",
+      "back": "What does Line eat?"
+    },
+    {
+      "id": "cb37fe74-1433-4067-85e0-bc51d1d0f74b",
+      "front": "N\u00E5r spiser Line?",
+      "back": "When does Line eat?"
+    },
+    {
+      "id": "d96f8998-203a-4c1a-8348-861773b21d62",
+      "front": "Han leser.",
+      "back": "He is reading."
+    },
+    {
+      "id": "3cd194cd-05c8-44c2-8a34-34e5a1a6ca24",
+      "front": "Leser han?",
+      "back": "Is he Reading?"
+    },
+    {
+      "id": "efa4b2c0-5fdc-4503-bb62-288e865dea96",
+      "front": "Hva leser han?",
+      "back": "What is he reading?"
+    },
+    {
+      "id": "92f9cae8-f539-4f76-94a3-a2a9538ccbf1",
+      "front": "Hvor leser han?",
+      "back": "Where does he read?"
+    },
+    {
+      "id": "1ccedad2-94af-4889-87c7-a8be200b57eb",
+      "front": "N\u00E5r leser han?",
+      "back": "When does he read?"
+    }
+  ]
+}

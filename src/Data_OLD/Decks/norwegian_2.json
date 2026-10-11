@@ -1,0 +1,321 @@
+{
+  "id": "norwegian_2",
+  "title": "Norwegian 2",
+  "cards": [
+    {
+      "id": "8ec58967-2f4c-4e6c-957b-29020ca58b55",
+      "front": "jeg",
+      "back": "I"
+    },
+    {
+      "id": "498e3eab-312b-44e4-8b1c-b38ce4eb4021",
+      "front": "du",
+      "back": "You (inf)"
+    },
+    {
+      "id": "35cbc4de-067e-4413-af39-1de709f6f045",
+      "front": "han",
+      "back": "He"
+    },
+    {
+      "id": "b663fe85-5cb9-4983-a23a-b9266b1bebaa",
+      "front": "hun",
+      "back": "She"
+    },
+    {
+      "id": "d193f045-8f59-4414-a272-ce8286f264c9",
+      "front": "vi",
+      "back": "We"
+    },
+    {
+      "id": "8ced352e-d434-46c0-a12c-bf678c483bae",
+      "front": "dere",
+      "back": "You (form.)"
+    },
+    {
+      "id": "30ae59f7-48c3-42e6-a25b-24a10d10af41",
+      "front": "de",
+      "back": "They"
+    },
+    {
+      "id": "088fdcc6-7145-4ea8-a01c-6513c9a94d3e",
+      "front": "meg",
+      "back": "Me (obj)"
+    },
+    {
+      "id": "19fb02d3-dbf0-488b-9320-51a1fead2567",
+      "front": "deg",
+      "back": "You (inf obj)"
+    },
+    {
+      "id": "de388364-4ace-4387-9e75-9b2f24f2d832",
+      "front": "han/ham",
+      "back": "Him (obj)"
+    },
+    {
+      "id": "e39b95f3-435f-4473-8d88-db6de6d42a39",
+      "front": "henne",
+      "back": "Her (obj)"
+    },
+    {
+      "id": "f0a7c292-c6ad-400f-9e29-e88ce3cf0ff4",
+      "front": "oss",
+      "back": "Us (obj)"
+    },
+    {
+      "id": "4dd81026-3e31-4cbb-9e9a-1e3d61fcd6e1",
+      "front": "dere",
+      "back": "You (form obj)"
+    },
+    {
+      "id": "f2a8a7c0-16f7-42bb-8a04-a530e3592bb7",
+      "front": "dem",
+      "back": "Them (obj)"
+    },
+    {
+      "id": "5ef9e5de-e892-49f8-b5ec-e0ea171ee14f",
+      "front": "God morgen",
+      "back": "Good morning"
+    },
+    {
+      "id": "dc894a17-0f25-4114-b127-61897755f04e",
+      "front": "God kveld",
+      "back": "Good evening"
+    },
+    {
+      "id": "b4b5f866-2250-4809-b0a3-43c552f422a3",
+      "front": "God natt",
+      "back": "Good night (to sleep)"
+    },
+    {
+      "id": "16959d13-e6c5-44d0-8a79-4e1e07b3ae30",
+      "front": "Hei",
+      "back": "Hello (inf)"
+    },
+    {
+      "id": "7cd6d5d7-a271-405c-b765-148dfc167f18",
+      "front": "Hvordan g\u00E5r det?",
+      "back": "How are you?"
+    },
+    {
+      "id": "df606be8-9989-4e1b-8ccb-46bda237972a",
+      "front": "Takk, bare bra",
+      "back": "FIne, thank you"
+    },
+    {
+      "id": "b01aed03-298f-417d-bf9a-50673dd1a5a4",
+      "front": "Hva heter du?",
+      "back": "What is your name"
+    },
+    {
+      "id": "5c30d1b1-0d5a-4ac4-8ff0-23648d769863",
+      "front": "Jeg heter. . .",
+      "back": "My name is. . ."
+    },
+    {
+      "id": "23db2955-2627-406a-b1ea-f5f37fc61415",
+      "front": "Hyggelig \u00E5 treffe deg",
+      "back": "Nice to meet you"
+    },
+    {
+      "id": "e084380a-a970-434b-856d-c1f7916d0cf3",
+      "front": "V\u00E6r s\u00E5 snill",
+      "back": "Please"
+    },
+    {
+      "id": "81efc38f-6627-4228-9f1e-6ffa6bf2cecf",
+      "front": "Bare hyggelig",
+      "back": "You\u0027re welcome"
+    },
+    {
+      "id": "13f0bddb-0156-4b66-ada8-c24b007916f4",
+      "front": "Ja",
+      "back": "Yes"
+    },
+    {
+      "id": "adfdce2b-a033-43f3-b5e4-a88770a86be4",
+      "front": "Jo",
+      "back": "Yes (in reply/opposition to a no in a discussion)"
+    },
+    {
+      "id": "ffaa327c-204b-4d6f-9eac-7c826b0f1a69",
+      "front": "Nei",
+      "back": "No"
+    },
+    {
+      "id": "9b3718bc-4c9b-4927-bc72-ec60b33cc6e5",
+      "front": "Unnskyld meg",
+      "back": "Excuse me (getting attention \u0026 begging pardon)"
+    },
+    {
+      "id": "1046b8e5-93bc-43fa-87a1-7bf58914833a",
+      "front": "Jeg forst\u00E5r (deg) ikke",
+      "back": "I don\u0027t understand (you)"
+    },
+    {
+      "id": "0d2cbf0b-4350-407a-90da-161758daef34",
+      "front": "Beklager",
+      "back": "I\u0027m sorry (for slight mistake)"
+    },
+    {
+      "id": "0294a64d-2179-436a-b5b1-8448d84f25b9",
+      "front": "Jeg beklager",
+      "back": "I\u0027m sorry (I really didn\u0027t mean it)"
+    },
+    {
+      "id": "d4951465-02f9-4eed-894c-8615569e1472",
+      "front": "Jeg er lei meg",
+      "back": "I\u0027m sorry (sincerely sorry or sad)"
+    },
+    {
+      "id": "d1c4d6f4-53e0-4ae9-9200-0cd353d7ceec",
+      "front": "Hat det brar",
+      "back": "Goodbye (form)"
+    },
+    {
+      "id": "6ea287b7-ddff-4c8a-a690-15b70a4dd935",
+      "front": "Hade",
+      "back": "Goodbye (inf)"
+    },
+    {
+      "id": "dee23560-082f-4f60-a843-de67ab838080",
+      "front": "Hjelp",
+      "back": "Help"
+    },
+    {
+      "id": "6a9dd2d5-c398-45f9-9009-5b5bc4bb40d4",
+      "front": "januar",
+      "back": "January"
+    },
+    {
+      "id": "b541a7d6-5687-491c-bf5b-aef3b6fb7225",
+      "front": "februar",
+      "back": "February"
+    },
+    {
+      "id": "e2459abc-e0eb-4072-8f7e-7d1095597d9c",
+      "front": "mars",
+      "back": "March"
+    },
+    {
+      "id": "577bec33-e4da-4f23-8d0e-45bad21dd5db",
+      "front": "april",
+      "back": "April"
+    },
+    {
+      "id": "ff3646a9-853d-49ed-869b-3124f26b030b",
+      "front": "mai",
+      "back": "May"
+    },
+    {
+      "id": "098b13a0-dc27-4de6-822c-781834237f1d",
+      "front": "juni",
+      "back": "June"
+    },
+    {
+      "id": "3c02afb4-da00-4978-919a-7f295fd0b6e1",
+      "front": "juli",
+      "back": "July"
+    },
+    {
+      "id": "c07aa8c0-6269-4056-a30a-e0a5e80a9028",
+      "front": "august",
+      "back": "August"
+    },
+    {
+      "id": "72092ce8-15c9-4791-926e-3404817218a9",
+      "front": "september",
+      "back": "September"
+    },
+    {
+      "id": "445402a6-7b07-44c1-b218-c837938aac83",
+      "front": "oktober",
+      "back": "October"
+    },
+    {
+      "id": "c8d7d796-d096-41f5-9af7-4d34a4bc15d7",
+      "front": "november",
+      "back": "November"
+    },
+    {
+      "id": "85c096ee-4340-4f0e-ba9d-6be643811eb5",
+      "front": "desember",
+      "back": "December"
+    },
+    {
+      "id": "e6b8e3f2-ee35-49f1-ab91-e38f52065943",
+      "front": "mandag",
+      "back": "Monday"
+    },
+    {
+      "id": "ed1a4155-965c-47bb-9eec-4ac94408be4c",
+      "front": "tirsdag",
+      "back": "Tuesday"
+    },
+    {
+      "id": "fcefc572-5d8d-4d72-add4-067dcace2a1a",
+      "front": "onsdag",
+      "back": "Wednesday"
+    },
+    {
+      "id": "cb656825-fbba-476c-9144-4b3f6fa723ec",
+      "front": "torsdag",
+      "back": "Thursday"
+    },
+    {
+      "id": "43694e99-d3de-4570-afb9-8c2d169025a9",
+      "front": "fredag",
+      "back": "Friday"
+    },
+    {
+      "id": "17220f1b-61fe-454a-ab73-ded9c6e556a6",
+      "front": "l\u00F8rdag",
+      "back": "Saturday"
+    },
+    {
+      "id": "bc5b8869-8e6a-4aa5-a076-6710418852ce",
+      "front": "s\u00F8ndag",
+      "back": "Sunday"
+    },
+    {
+      "id": "3bc847ca-b314-49c4-90bd-9e7a71fbbbe0",
+      "front": "Svart",
+      "back": "Black"
+    },
+    {
+      "id": "aef5db79-7a61-4ec3-9d8f-25be8fe31be1",
+      "front": "Hvit",
+      "back": "White"
+    },
+    {
+      "id": "45a3adf4-ed5a-467f-8c25-6e7ee810fcfc",
+      "front": "R\u00F8d",
+      "back": "Red"
+    },
+    {
+      "id": "6d3f0d4a-8f34-4d3b-a4d7-457bd13c6ccc",
+      "front": "Gul",
+      "back": "Yellow"
+    },
+    {
+      "id": "1415b251-1cab-4380-b586-373df2ced9a1",
+      "front": "Gr\u00F8nn",
+      "back": "Green"
+    },
+    {
+      "id": "bdf03199-31a4-44f6-b0cb-5073dee86b72",
+      "front": "Bl\u00E5",
+      "back": "Blue"
+    },
+    {
+      "id": "42e7fe9a-9957-414d-8acf-8c4f4d5b11f2",
+      "front": "Oransje",
+      "back": "Orange"
+    },
+    {
+      "id": "b666d4fb-b5e7-4580-b176-fa7dcaad967f",
+      "front": "Rosa",
+      "back": "Pink"
+    }
+  ]
+}

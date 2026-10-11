@@ -1,0 +1,55 @@
+@model FlashcardApp.Models.StudyViewModel
+<style>
+    .flashcard { cursor: pointer; min-height: 200px; transition: all 0.3s ease; }
+    .flashcard:hover { box-shadow: 0 8px 16px rgba(0,0,0,0.15); }
+    .flashcard-content { word-wrap: break-word; overflow-wrap: break-word; white-space: pre-wrap; font-size: 1.3rem; }
+    .flashcard-answer { display: none; border-top: 2px dashed #dee2e6; padding-top: 1.5rem; margin-top: 1.5rem; background-color: #f8f9fa; border-radius: 5px; padding: 1rem; }
+    .flashcard.is-expanded .flashcard-answer { display: block; animation: fadeIn 0.4s ease-in; }
+    @@keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
+    .rating-container { display: none; }
+    .flashcard.is-expanded ~ .rating-container { display: block; }
+    .star-btn { font-size: 2rem; background: none; border: none; color: #ffc107; cursor: pointer; }
+    .star-btn:hover { color: #e0a800; transform: scale(1.1); }
+</style>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            
+            <div class="d-flex justify-content-between mb-3">
+                @if (Model.CardIndex > 0)
+                {
+                    <a asp-action="Study" asp-route-deckId="@Model.DeckId" asp-route-cardIndex="@(Model.CardIndex - 1)" asp-route-reviewDeckId="@Model.ReviewDeckId" class="btn btn-outline-secondary">&larr; Back</a>
+                }
+                else
+                {
+                    <div></div>
+                }
+                
+                <span class="text-muted align-self-center">Card @(Model.CardIndex + 1) of @Model.TotalCards</span>
+
+                <a asp-action="Study" asp-route-deckId="@Model.DeckId" asp-route-cardIndex="@(Model.CardIndex + 1)" asp-route-reviewDeckId="@Model.ReviewDeckId" class="btn btn-outline-secondary">Skip &rarr;</a>
+            </div>
+
+            <div class="card flashcard p-4 text-center border shadow-sm" onclick="this.classList.add('is-expanded')">
+                <span class="text-muted fs-6 d-block mb-3">Click card to reveal answer</span>
+                <div class="flashcard-content fw-bold text-dark">@Model.Card.Front</div>
+                <div class="flashcard-answer flashcard-content text-secondary">@Model.Card.Back</div>
+            </div>
+            
+            <div class="rating-container mt-4 text-center">
+                <h4>Rate your understanding:</h4>
+                <p class="text-muted">1 = Didn't understand | 5 = Fully got it</p>
+                <form asp-action="RateCard" method="post" class="d-flex justify-content-center gap-2">
+                    <input type="hidden" name="deckId" value="@Model.DeckId" />
+                    <input type="hidden" name="cardId" value="@Model.Card.Id" />
+                    <input type="hidden" name="cardIndex" value="@Model.CardIndex" />
+                    <input type="hidden" name="reviewDeckId" value="@Model.ReviewDeckId" />
+                    @for (int i = 1; i <= 5; i++) {
+                        <button type="submit" name="rating" value="@i" class="star-btn" title="Rate @i">&#9733; <span class="d-block fs-6 text-dark">@i</span></button>
+                    }
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</div>

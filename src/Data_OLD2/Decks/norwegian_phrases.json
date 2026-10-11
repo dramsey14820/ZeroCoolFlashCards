@@ -1,0 +1,486 @@
+{
+    "id": "norwegian_phrases",
+    "title": "Norwegian Phrases",
+    "cards": [
+        {
+            "id": "phrase_1",
+            "front": "Jeg elsker deg",
+            "back": "I love you (romantic love)"
+        },
+        {
+            "id": "phrase_2",
+            "front": "Jeg er glad i deg",
+            "back": "I love you {I am happy in you} (Family love)"
+        },
+        {
+            "id": "phrase_3",
+            "front": "Og hvordan har du det?",
+            "back": "And how are you doing?"
+        },
+        {
+            "id": "phrase_4",
+            "front": "Takk, veldig bra.",
+            "back": "Thank you, very good."
+        },
+        {
+            "id": "phrase_5",
+            "front": "Hva studerer du?",
+            "back": "What are you studying?"
+        },
+        {
+            "id": "phrase_6",
+            "front": "Hvor studerer du?",
+            "back": "Where are you studying?"
+        },
+        {
+            "id": "phrase_7",
+            "front": "Hvor bor du?",
+            "back": "Where do you live?"
+        },
+        {
+            "id": "phrase_8",
+            "front": "Jeg er sulten.",
+            "back": "I am hungry."
+        },
+        {
+            "id": "phrase_9",
+            "front": "jeg liker te.",
+            "back": "I like tea."
+        },
+        {
+            "id": "phrase_10",
+            "front": "Hei, kan jeg hjelpe deg?",
+            "back": "Hi, can I help you?"
+        },
+        {
+            "id": "phrase_11",
+            "front": "Jeg er syk.",
+            "back": "I am sick."
+        },
+        {
+            "id": "phrase_12",
+            "front": "Takk for hjelpen.",
+            "back": "Thank you for the help."
+        },
+        {
+            "id": "phrase_13",
+            "front": "Et øyeblikk.",
+            "back": "One moment."
+        },
+        {
+            "id": "phrase_14",
+            "front": "Det er dyrt.",
+            "back": "It is expensive."
+        },
+        {
+            "id": "phrase_15",
+            "front": "Jeg jobber.",
+            "back": "I work."
+        },
+        {
+            "id": "phrase_16",
+            "front": "Hva gjør du?",
+            "back": "What do you do?"
+        },
+        {
+            "id": "phrase_17",
+            "front": "Skru på lampen.",
+            "back": "Turn on the lamp."
+        },
+        {
+            "id": "phrase_18",
+            "front": "Hva er galt?",
+            "back": "What is wrong?"
+        },
+        {
+            "id": "phrase_19",
+            "front": "Hvem er det?",
+            "back": "Who is that?"
+        },
+        {
+            "id": "phrase_20",
+            "front": "Vær så snill.",
+            "back": "Please ( be so kind )"
+        },
+        {
+            "id": "phrase_21",
+            "front": "Vær så god.",
+            "back": "You are welcome ( be so good )."
+        },
+        {
+            "id": "phrase_22",
+            "front": "Hvor gammel er du?",
+            "back": "How old are you?"
+        },
+        {
+            "id": "phrase_23",
+            "front": "Jeg vil gjerne treffe deg.",
+            "back": "I would like to meet you?"
+        },
+        {
+            "id": "phrase_24",
+            "front": "Når skal jeg treffe?",
+            "back": "When shall I meet you?"
+        },
+        {
+            "id": "phrase_25",
+            "front": "Hvor skal jeg treffe deg?",
+            "back": "Where shall I meet you?"
+        },
+        {
+            "id": "phrase_26",
+            "front": "Har du bil?",
+            "back": "Do you have a car."
+        },
+        {
+            "id": "phrase_27",
+            "front": "Hva heter du?",
+            "back": "What is your name?"
+        },
+        {
+            "id": "phrase_28",
+            "front": "Det går bra, takk.",
+            "back": "We are doing fine, thanks."
+        },
+        {
+            "id": "phrase_29",
+            "front": "Han lager mat",
+            "back": "He is cooking"
+        },
+        {
+            "id": "phrase_30",
+            "front": "Hun betaler",
+            "back": "She is paying"
+        },
+        {
+            "id": "phrase_31",
+            "front": "Hva lager du",
+            "back": "What are you making"
+        },
+        {
+            "id": "phrase_32",
+            "front": "Hva gjør du",
+            "back": "What do you do"
+        },
+        {
+            "id": "phrase_33",
+            "front": "Arbeider hun",
+            "back": "Does she work"
+        },
+        {
+            "id": "phrase_34",
+            "front": "Hva selger du",
+            "back": "What do you sell"
+        },
+        {
+            "id": "phrase_35",
+            "front": "Jenta gjør det",
+            "back": "The girl is doing it"
+        },
+        {
+            "id": "phrase_36",
+            "front": "Hvem kjøper bøken",
+            "back": "Who is buying the book"
+        },
+        {
+            "id": "phrase_37",
+            "front": "Jeg arbeider og de betaler",
+            "back": "I work and they pay"
+        },
+        {
+            "id": "phrase_38",
+            "front": "De gråter",
+            "back": "They are crying"
+        },
+        {
+            "id": "phrase_39",
+            "front": "Det vil jeg",
+            "back": "I want that"
+        },
+        {
+            "id": "phrase_40",
+            "front": "Hva vil hun ha",
+            "back": "What does she want to have"
+        },
+        {
+            "id": "phrase_41",
+            "front": "Jeg gråter ikke",
+            "back": "I am not crying"
+        },
+        {
+            "id": "phrase_42",
+            "front": "Jeg velger smørbrødet",
+            "back": "I choose the sandwich"
+        },
+        {
+            "id": "phrase_43",
+            "front": "Mannen kjører",
+            "back": "The man is driving"
+        },
+        {
+            "id": "phrase_44",
+            "front": "Nei betyr nei",
+            "back": "no means no"
+        },
+        {
+            "id": "phrase_45",
+            "front": "Det regner ikke",
+            "back": "It is not raining"
+        },
+        {
+            "id": "phrase_46",
+            "front": "Jenta tegner en elg",
+            "back": "The girl is drawing a moose"
+        },
+        {
+            "id": "phrase_47",
+            "front": "Hunden og katten leker.",
+            "back": "The dog and the cat are playing"
+        },
+        {
+            "id": "phrase_48",
+            "front": "Han støtter meg",
+            "back": "He supports me"
+        },
+        {
+            "id": "phrase_49",
+            "front": "Vi trenger mat",
+            "back": "We need food"
+        },
+        {
+            "id": "phrase_50",
+            "front": "Man drikker ikke olje",
+            "back": "One does not drink oil."
+        },
+        {
+            "id": "phrase_51",
+            "front": "Barnet leker",
+            "back": "The child plays"
+        },
+        {
+            "id": "phrase_52",
+            "front": "Man trenger ikke mange koner",
+            "back": "One does not need many wives"
+        },
+        {
+            "id": "phrase_53",
+            "front": "Jeg er syk",
+            "back": "I am sick"
+        },
+        {
+            "id": "phrase_54",
+            "front": "Desverre, er jeg syk.",
+            "back": "Unfortunately, I am sick."
+        },
+        {
+            "id": "phrase_55",
+            "front": "I dag, er jeg syk.",
+            "back": "Today, I am sick."
+        },
+        {
+            "id": "phrase_56",
+            "front": "Er jeg syk?",
+            "back": "Am I sick?"
+        },
+        {
+            "id": "phrase_57",
+            "front": "Du vil ha kake.",
+            "back": "You want cake."
+        },
+        {
+            "id": "phrase_58",
+            "front": "Vil du ha kake?",
+            "back": "Do you want cake?"
+        },
+        {
+            "id": "phrase_59",
+            "front": "I dag, vil jeg ha kake.",
+            "back": "Today, I want cake."
+        },
+        {
+            "id": "phrase_60",
+            "front": "Vil jeg ha kake i dag?",
+            "back": "Do I want cake today?"
+        },
+        {
+            "id": "phrase_61",
+            "front": "Jeg er sulten.",
+            "back": "I am hungry."
+        },
+        {
+            "id": "phrase_62",
+            "front": "Er du sulten?",
+            "back": "Are you hungry?"
+        },
+        {
+            "id": "phrase_63",
+            "front": "Jeg er tørst.",
+            "back": "I am thirsty."
+        },
+        {
+            "id": "phrase_64",
+            "front": "Kan jeg by på noe å drikke?",
+            "back": "Can I offer you something to drink?"
+        },
+        {
+            "id": "phrase_65",
+            "front": "Er dere klare til å bestille?",
+            "back": "Are you all ready to order?"
+        },
+        {
+            "id": "phrase_66",
+            "front": "Vi trenger litt mere tid.",
+            "back": "We need a little more time."
+        },
+        {
+            "id": "phrase_67",
+            "front": "Har dere en engelsk meny?",
+            "back": "Do you all have an English menu?"
+        },
+        {
+            "id": "phrase_68",
+            "front": "Jeg vil gjerne ha...",
+            "back": "I would like to have..."
+        },
+        {
+            "id": "phrase_69",
+            "front": "Jeg skal ha...",
+            "back": "I will have..."
+        },
+        {
+            "id": "phrase_70",
+            "front": "Jeg tar...",
+            "back": "I will take..."
+        },
+        {
+            "id": "phrase_71",
+            "front": "en kopp kaffe.",
+            "back": "a cup of coffee."
+        },
+        {
+            "id": "phrase_72",
+            "front": "Kan du bestille en kopp kaffe til meg?",
+            "back": "Can you order a cup of coffee for me?"
+        },
+        {
+            "id": "phrase_73",
+            "front": "en kakao",
+            "back": "hot cocoa"
+        },
+        {
+            "id": "phrase_74",
+            "front": "en varm sjokolade",
+            "back": "a hotell chocolate"
+        },
+        {
+            "id": "phrase_75",
+            "front": "et glass",
+            "back": "a glass"
+        },
+        {
+            "id": "phrase_76",
+            "front": "Vi beklager",
+            "back": "We are sorry"
+        },
+        {
+            "id": "phrase_77",
+            "front": "spisepinner",
+            "back": "chopsticks"
+        },
+        {
+            "id": "phrase_78",
+            "front": "grønnsaker",
+            "back": "Vegetables"
+        },
+        {
+            "id": "phrase_79",
+            "front": "et hvitløksfedd",
+            "back": "a clove of garlic"
+        },
+        {
+            "id": "phrase_80",
+            "front": "blomkål",
+            "back": "cauliflower"
+        },
+        {
+            "id": "phrase_81",
+            "front": "å bestille",
+            "back": "to order"
+        },
+        {
+            "id": "phrase_82",
+            "front": "Kan jeg få regningen?",
+            "back": "Can I have the bill?"
+        },
+        {
+            "id": "phrase_83",
+            "front": "Jeg tar regningen",
+            "back": "I will take the bill"
+        },
+        {
+            "id": "phrase_84",
+            "front": "Jeg spanderer",
+            "back": "I treat ( I buy you)"
+        },
+        {
+            "id": "phrase_85",
+            "front": "det var pussig",
+            "back": "that is odd"
+        },
+        {
+            "id": "phrase_86",
+            "front": "Hei alle norskstudentene mine",
+            "back": "Hi all my Norwegian students"
+        },
+        {
+            "id": "phrase_87",
+            "front": "skål",
+            "back": "bottoms up"
+        },
+        {
+            "id": "phrase_88",
+            "front": "skje",
+            "back": "spoon"
+        },
+        {
+            "id": "phrase_89",
+            "front": "bare hyggelig",
+            "back": "You're welcome"
+        },
+        {
+            "id": "phrase_90",
+            "front": "hyggelig å hilse på deg",
+            "back": "nice to meet you"
+        },
+        {
+            "id": "phrase_91",
+            "front": "I like måte",
+            "back": "likewise"
+        },
+        {
+            "id": "phrase_92",
+            "front": "å kunne",
+            "back": "to be able"
+        },
+        {
+            "id": "phrase_93",
+            "front": "å høre på norsk radio",
+            "back": "listen to Norwegian radio"
+        },
+        {
+            "id": "phrase_94",
+            "front": "å se på norsk TV",
+            "back": "to watch Norwegian TV shows"
+        },
+        {
+            "id": "phrase_95",
+            "front": "å høre på norsk sanger",
+            "back": "to listen to Norwegian songs"
+        },
+        {
+            "id": "phrase_96",
+            "front": "faktisk",
+            "back": "Indeed"
+        }
+    ]
+}

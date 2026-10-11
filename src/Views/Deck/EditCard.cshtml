@@ -1,0 +1,2 @@
+@model FlashcardApp.Models.Flashcard
+<div class="container mt-5"><h2>Edit Card</h2><form asp-action="SaveCard" method="post"><input type="hidden" name="deckId" value="@ViewBag.DeckId" /><input type="hidden" asp-for="Id" /><textarea asp-for="Front" class="form-control mb-3"></textarea><textarea asp-for="Back" class="form-control mb-3"></textarea><button type="submit" class="btn btn-success">Save</button></form></div>

@@ -1,0 +1,24 @@
+<div class="container mt-5">
+    <h2>Import Deck from JSON</h2>
+    <p class="text-muted">Upload a JSON file containing an array of objects with <code>term</code> and <code>definition</code> properties.</p>
+    
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+    <form asp-action="ImportDeck" method="post" enctype="multipart/form-data" class="mt-4" style="max-width: 500px;">
+        <div class="mb-3">
+            <label class="form-label">New Deck ID (no spaces)</label>
+            <input type="text" name="id" class="form-control" required placeholder="e.g., norwegian_travel" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">New Deck Title</label>
+            <input type="text" name="title" class="form-control" required placeholder="e.g., Norwegian Travel Phrases" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">JSON File</label>
+            <input type="file" name="jsonFile" class="form-control" accept=".json" required />
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Import Deck</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

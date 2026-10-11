@@ -1,0 +1,526 @@
+{
+    "id": "norsk_samtale_level_1",
+    "title": "Norsk Samtale Level 1",
+    "cards": [
+        {
+            "id": "phrase_1",
+            "front": "God dag, hva skal det være?",
+            "back": "Good day, what shall it be?"
+        },
+        {
+            "id": "phrase_2",
+            "front": "Jeg vil gjerne ha en dagens suppe, takk.",
+            "back": "Iæd like to have the soup of the day, thank you."
+        },
+        {
+            "id": "phrase_3",
+            "front": "Jeg tar en smørbrod, og to øl, er du snill.",
+            "back": "I will take a sandwich and two beers, please."
+        },
+        {
+            "id": "phrase_4",
+            "front": "Er det alt?",
+            "back": "Is that everything?"
+        },
+        {
+            "id": "phrase_5",
+            "front": "å skulle",
+            "back": "to go to, will, or shall"
+        },
+        {
+            "id": "phrase_6",
+            "front": "En smørbrød takk.",
+            "back": "A sandwich, thanks."
+        },
+        {
+            "id": "phrase_7",
+            "front": "Vil du ha litt suppe?",
+            "back": "Will you have a bitt of suppe?"
+        },
+        {
+            "id": "phrase_8",
+            "front": "Er det dagens avis?",
+            "back": "Is that todays newspaper?"
+        },
+        {
+            "id": "phrase_9",
+            "front": "Hva er klokken?",
+            "back": "What time is it?"
+        },
+        {
+            "id": "phrase_10",
+            "front": "Du må gjerne ta litt mat",
+            "back": "You should certainly take a bit of food."
+        },
+        {
+            "id": "phrase_11",
+            "front": "Hvor skal du?",
+            "back": "Where are you going?"
+        },
+        {
+            "id": "phrase_12",
+            "front": "Skulle ikke du komme i går?",
+            "back": "Shouldn`t you have come yesterday?"
+        },
+        {
+            "id": "phrase_13",
+            "front": "Jeg skal besøke deg i morgen.",
+            "back": "I am going to visit you tomorrow."
+        },
+        {
+            "id": "phrase_14",
+            "front": "Skal ikke du komme snart?",
+            "back": "Are you going to come soon?"
+        },
+        {
+            "id": "phrase_15",
+            "front": "Jeg skal avgårde i morgen.",
+            "back": "I am going to leave tomorrow."
+        },
+        {
+            "id": "phrase_16",
+            "front": "Ha en god dag!",
+            "back": "Have a good day!"
+        },
+        {
+            "id": "phrase_17",
+            "front": "I dag kan alt resirkuleres.",
+            "back": "Today, can everything be recycled."
+        },
+        {
+            "id": "phrase_18",
+            "front": "Alt er på tilbud.",
+            "back": "Everything is on sale."
+        },
+        {
+            "id": "phrase_19",
+            "front": "være snill nå.",
+            "back": "Be kind now."
+        },
+        {
+            "id": "phrase_20",
+            "front": "Det var veldig snillt av deg.",
+            "back": "That was very nice of you."
+        },
+        {
+            "id": "phrase_21",
+            "front": "Jeg tar gjerne litt kaffe, hvis du har.",
+            "back": "I will certainly take a bit of coffe, if you have (any)."
+        },
+        {
+            "id": "phrase_22",
+            "front": "Jeg kan gjerne hjelpe deg!",
+            "back": "I can certainly help you!"
+        },
+        {
+            "id": "phrase_23",
+            "front": "Du må gjerne bli med hvis du vil",
+            "back": "You should certainly (be)come with if you want."
+        },
+        {
+            "id": "phrase_24",
+            "front": "Jeg vil gjerne en røkt laks med gratinerte poteter.",
+            "back": "I will certainly take smoked salmon with baked potatoes."
+        },
+        {
+            "id": "phrase_25",
+            "front": "Jeg vil ha en hambruger med pommes frites.",
+            "back": "I will have a hamburger with french fries."
+        },
+        {
+            "id": "phrase_26",
+            "front": "Matt, går det bra med deg?",
+            "back": "Matt, does it go good with you?"
+        },
+        {
+            "id": "phrase_27",
+            "front": "Du ser litt blek ut.",
+            "back": "You look a bit pale."
+        },
+        {
+            "id": "phrase_28",
+            "front": "Jeg har litt vondt i hodet.",
+            "back": "I have a bit of pain(hurt) in the head."
+        },
+        {
+            "id": "phrase_29",
+            "front": "Du burde ta en tur til legen, du er veldig varm.",
+            "back": "You should take a trip to the doctor, you are very warm."
+        },
+        {
+            "id": "phrase_30",
+            "front": "Hva om legen ikke snakker engelsk?",
+            "back": "What if the doctor does not speak english?"
+        },
+        {
+            "id": "phrase_31",
+            "front": "Jeg blir med.",
+            "back": "I (be)come with."
+        },
+        {
+            "id": "phrase_32",
+            "front": "å se",
+            "back": "to watch, to see, to llok"
+        },
+        {
+            "id": "phrase_33",
+            "front": "Bra du kunne komme.",
+            "back": "Good you can come."
+        },
+        {
+            "id": "phrase_34",
+            "front": "Jeg har det bra.",
+            "back": "I have it good."
+        },
+        {
+            "id": "phrase_35",
+            "front": "Han er blek some et spøkelse.",
+            "back": "He is pale like a ghost."
+        },
+        {
+            "id": "phrase_36",
+            "front": "Jeg har vondt i ribbeinet.",
+            "back": "I have pain (hurt) in the ribs."
+        },
+        {
+            "id": "phrase_37",
+            "front": "Jeg må gå snart.",
+            "back": "I must go soon."
+        },
+        {
+            "id": "phrase_38",
+            "front": "Jeg liker å gå i skogen.",
+            "back": "I like to go (walking) in the woods."
+        },
+        {
+            "id": "phrase_39",
+            "front": "Vær så snill å gå på den andre siden av veien.",
+            "back": "Please go to the other side of the road."
+        },
+        {
+            "id": "phrase_40",
+            "front": "Vanligvis ser jeg ikke på noen sport, men igår gjorde jeg et unntak.",
+            "back": "Usually I do not watch any sports, but yesterday I made an exception."
+        },
+        {
+            "id": "phrase_41",
+            "front": "Jeg snakker ikke med deg lenger.",
+            "back": "I am not talking to you further [(any) longer]."
+        },
+        {
+            "id": "phrase_42",
+            "front": "Skal du gå ut?",
+            "back": "Are you going out?"
+        },
+        {
+            "id": "phrase_43",
+            "front": "Ballen traff hodet hans.",
+            "back": "The ball hit his head."
+        },
+        {
+            "id": "phrase_44",
+            "front": "Legen jobbet dag og natt.",
+            "back": "The doctor worked day and night."
+        },
+        {
+            "id": "phrase_45",
+            "front": "Jeg ser død.",
+            "back": "I see death."
+        },
+        {
+            "id": "phrase_46",
+            "front": "Jeg ser død ut.",
+            "back": "I look dead."
+        },
+        {
+            "id": "phrase_47",
+            "front": "Jeg tar en tur til Spania neste uke.",
+            "back": "I am taking a trip to Spain next week."
+        },
+        {
+            "id": "phrase_48",
+            "front": "Ta deg en tur ut du!",
+            "back": "You, go for a walk (outside)."
+        },
+        {
+            "id": "phrase_49",
+            "front": "Jeg har betennelse i foten.",
+            "back": "I have inflammation in the foot."
+        },
+        {
+            "id": "phrase_50",
+            "front": "Jeg har vondt i magen.",
+            "back": "I have a stomache ache."
+        },
+        {
+            "id": "phrase_51",
+            "front": "Jeg har vondt i halsen.",
+            "back": "I have (a) sore throat."
+        },
+        {
+            "id": "phrase_52",
+            "front": "Jeg har feber.",
+            "back": "I have (a) fever."
+        },
+        {
+            "id": "phrase_53",
+            "front": "Jeg har innfluensa.",
+            "back": "I have influenza."
+        },
+        {
+            "id": "phrase_54",
+            "front": "Jeg har pollenallergi",
+            "back": "I have pollen allergy."
+        },
+        {
+            "id": "phrase_55",
+            "front": "Jeg er varm.",
+            "back": "I am warm."
+        },
+        {
+            "id": "phrase_56",
+            "front": "Jeg er kald.",
+            "back": "I am cold."
+        },
+        {
+            "id": "phrase_57",
+            "front": "Jeg er sliten.",
+            "back": "I am exhausted."
+        },
+        {
+            "id": "phrase_58",
+            "front": "Jeg er søvnig.",
+            "back": "I am sleepy."
+        },
+        {
+            "id": "phrase_59",
+            "front": "Så fint vær det er i dag.",
+            "back": "What fine weather it is today."
+        },
+        {
+            "id": "phrase_60",
+            "front": "Ja, nyte det mens du enda kan.",
+            "back": "Yes, enjoy it mens du still can."
+        },
+        {
+            "id": "phrase_61",
+            "front": "Å, Hva er værmeldingen for i morgen?",
+            "back": "Oh? What is the weather forcast for tomorrow?"
+        },
+        {
+            "id": "phrase_62",
+            "front": "Det skal regne en god del.",
+            "back": "It is going to rain a good deal."
+        },
+        {
+            "id": "phrase_63",
+            "front": "Igjen?",
+            "back": "Again?"
+        },
+        {
+            "id": "phrase_64",
+            "front": "Jepp, det er faktisk mer regn enn sol her.",
+            "back": "Yep, There[It] is actually[in fact] more rain than sun here."
+        },
+        {
+            "id": "phrase_65",
+            "front": "Det er dårlig vær.",
+            "back": "It is bad weather."
+        },
+        {
+            "id": "phrase_66",
+            "front": "Familien nyter et festmåltid.",
+            "back": "The family enjoys a holiday meal."
+        },
+        {
+            "id": "phrase_67",
+            "front": "Jeg nyter den friske luften her.",
+            "back": "I am enjoying the fresh air her."
+        },
+        {
+            "id": "phrase_68",
+            "front": "Vent her mens jeg går inn.",
+            "back": "Wait here while I go in."
+        },
+        {
+            "id": "phrase_69",
+            "front": "Alle liker å dra på sightseeing mens man er på ferie.",
+            "back": "Everyone likes to go (go away) sight seeing while one is on holiday."
+        },
+        {
+            "id": "phrase_70",
+            "front": "Er du her enda?",
+            "back": "Are you here still?"
+        },
+        {
+            "id": "phrase_71",
+            "front": "Hva er værmeldingen for i morgen?",
+            "back": "What is the weather forecast for tomorrow?"
+        },
+        {
+            "id": "phrase_72",
+            "front": "Regnet faller på gata.",
+            "back": "The rain is falling on the street."
+        },
+        {
+            "id": "phrase_73",
+            "front": "Jeg har en god del penger.",
+            "back": "I have a good deal of money."
+        },
+        {
+            "id": "phrase_74",
+            "front": "Jeg er faktisk svensk.",
+            "back": "I am in fact Swedish."
+        },
+        {
+            "id": "phrase_75",
+            "front": "Du are solen min.",
+            "back": "You are my sunshine."
+        },
+        {
+            "id": "phrase_76",
+            "front": "Jeg hater regn!",
+            "back": "I hate rain!"
+        },
+        {
+            "id": "phrase_77",
+            "front": "Regner det nå?",
+            "back": "Is it raining now?"
+        },
+        {
+            "id": "phrase_78",
+            "front": "Nei, men det regnet i går.",
+            "back": "No, but it rained yesterday."
+        },
+        {
+            "id": "phrase_79",
+            "front": "Jeg synes det er trist med dårlig vær.",
+            "back": "I think it is dreary with bad weather."
+        },
+        {
+            "id": "phrase_80",
+            "front": "Sorte katter betyr ulykke.",
+            "back": "Black cats mean bad luck (unlucky)."
+        },
+        {
+            "id": "phrase_81",
+            "front": "Det er kjedelig på jobb.",
+            "back": "It is boring at work."
+        },
+        {
+            "id": "phrase_82",
+            "front": "Det finnes ikke dårlig vær, bare dårlig klær!",
+            "back": "It doesn't exist bad weather, only bad clothes."
+        },
+        {
+            "id": "phrase_83",
+            "front": "Så dette er Jotunheimen.",
+            "back": "So this is Jotunheimen."
+        },
+        {
+            "id": "phrase_84",
+            "front": "Det stemmer.",
+            "back": "That is correct."
+        },
+        {
+            "id": "phrase_85",
+            "front": "En av norges største natur reservater.",
+            "back": "One of Norways largest nature reserves."
+        },
+        {
+            "id": "phrase_86",
+            "front": "Noe annet enn bylandskap, eller hva?",
+            "back": "Something more than urbanlandscape, or what?"
+        },
+        {
+            "id": "phrase_87",
+            "front": "Det er sikkert og visst!",
+            "back": "It is sure and certain!"
+        },
+        {
+            "id": "phrase_88",
+            "front": "Det er ikke sikkert.",
+            "back": "I am not sure."
+        },
+        {
+            "id": "phrase_89",
+            "front": "Dette er et ulvereservat.",
+            "back": "This is a wolv reserve."
+        },
+        {
+            "id": "phrase_90",
+            "front": "Det er mye natur i norge.",
+            "back": "There is a lot of nature in Norway."
+        },
+        {
+            "id": "phrase_91",
+            "front": "Jeg er stor i Japan.",
+            "back": "I am big in Japan."
+        },
+        {
+            "id": "phrase_92",
+            "front": "Utsikten her er utrolig!",
+            "back": "The view her is incredible!"
+        },
+        {
+            "id": "phrase_93",
+            "front": "Fra hennes utsiktspunkt kunne hun ikke se nøyaktig hva som skjedde.",
+            "back": "From her viewpoint she could not see exactly what(that) happened."
+        },
+        {
+            "id": "phrase_94",
+            "front": "Det stemmer det du sier.",
+            "back": "It is correct what (that) you are saying."
+        },
+        {
+            "id": "phrase_95",
+            "front": "Det stemmerr.",
+            "back": "That is correct."
+        },
+        {
+            "id": "phrase_96",
+            "front": "Så fantastisk!",
+            "back": "So fantastic!"
+        },
+        {
+            "id": "phrase_97",
+            "front": "Vil du bestille noe annet?",
+            "back": "Will you order something else?"
+        },
+        {
+            "id": "phrase_98",
+            "front": "Legg dokumentene dine et annet sted.",
+            "back": "Keep(place) your documents else where."
+        },
+        {
+            "id": "phrase_99",
+            "front": "Denne byen er liten.",
+            "back": "This city is small."
+        },
+        {
+            "id": "phrase_100",
+            "front": "Denne byen er trehundre år gammel.",
+            "back": "This city is three hundred years old."
+        },
+        {
+            "id": "phrase_101",
+            "front": "Jeg er en landskapsarkitekt.",
+            "back": "I am a lanscape architect."
+        },
+        {
+            "id": "phrase_102",
+            "front": "Landskapene var vakre, fulle av blomster og utrolige farger.",
+            "back": "The landscapes were beautiful, full of flowers and incredible colors."
+        },
+        {
+            "id": "phrase_103",
+            "front": "Jeg er den største i klassen.",
+            "back": "I am the biggest in the class."
+        },
+        {
+            "id": "phrase_104",
+            "front": "Jeg er god til å stå på ski, men bedre til å svømme.",
+            "back": "I am good at skiing, but better at swimming."
+        }
+    ]
+}

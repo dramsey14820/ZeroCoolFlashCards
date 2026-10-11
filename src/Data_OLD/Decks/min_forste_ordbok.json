@@ -1,0 +1,306 @@
+{
+  "id": "min_forste_ordbok",
+  "title": "Min forste ordbok",
+  "cards": [
+    {
+      "id": "87dd956d-53cd-40a1-a2cf-0a457cd9b5f9",
+      "front": "vaskeklut",
+      "back": "Face cloth"
+    },
+    {
+      "id": "fe60955e-487a-4454-b803-ddcda5f8c81e",
+      "front": "Tannb\u00F8rste",
+      "back": "toothbrush"
+    },
+    {
+      "id": "a3e74dbd-a361-46f4-9864-acdb24d471e0",
+      "front": "speil",
+      "back": "mirror"
+    },
+    {
+      "id": "89622017-e7f3-4484-869f-58005ae8a1bf",
+      "front": "h\u00E5ndkle",
+      "back": "towel"
+    },
+    {
+      "id": "6e5a4320-ca1b-4354-a74e-f6f4d985e200",
+      "front": "skjorte",
+      "back": "shirt"
+    },
+    {
+      "id": "b72b157f-115e-452a-a15e-0e92feff932f",
+      "front": "bukser",
+      "back": "trousers"
+    },
+    {
+      "id": "25cfea99-9c34-434b-a04b-5d953ec2dbbd",
+      "front": "tomatsaft",
+      "back": "tomato sauce"
+    },
+    {
+      "id": "24c161f3-b621-4cf8-9662-c6a80d116a0f",
+      "front": "havreg\u00F8t",
+      "back": "porridge"
+    },
+    {
+      "id": "bbcd58ca-da0f-40b2-844c-0e48cb52cb34",
+      "front": "med melk",
+      "back": "with milk"
+    },
+    {
+      "id": "31f9f49b-9ac1-433d-8f71-8bcd8f0eaf56",
+      "front": "pannekaker",
+      "back": "pancakes"
+    },
+    {
+      "id": "bbc8aa49-2b44-400f-a65b-4b6178286560",
+      "front": "sm\u00F8r",
+      "back": "butter"
+    },
+    {
+      "id": "064334b4-bcf6-4fff-958e-d56784dccb6f",
+      "front": "br\u00F8drister",
+      "back": "Toaster"
+    },
+    {
+      "id": "05f5d07d-b5f1-427f-ab1d-66c6b497fd43",
+      "front": "riset br\u00F8d",
+      "back": "toast"
+    },
+    {
+      "id": "e1689427-bddb-4210-8cc1-238dfbbde0bd",
+      "front": "speilegg",
+      "back": "fried eggs"
+    },
+    {
+      "id": "bb4e33ac-1348-4f7e-9397-eff6c47a392d",
+      "front": "bacon",
+      "back": "bacon"
+    },
+    {
+      "id": "035320ee-ae4f-404f-b3df-8b1faf9b1849",
+      "front": "honning",
+      "back": "honey"
+    },
+    {
+      "id": "dc69833f-1763-4ed5-a470-82f05f25ce09",
+      "front": "syltet\u00F8y",
+      "back": "jam"
+    },
+    {
+      "id": "054f8205-f21c-40f8-a268-8e03576d4801",
+      "front": "varm kakao",
+      "back": "warm chocolate"
+    },
+    {
+      "id": "32419b21-e7da-40ac-921a-476b44f4c676",
+      "front": "kald melk",
+      "back": "cold milk"
+    },
+    {
+      "id": "adec8a13-fb9d-49be-b523-b03e1090d729",
+      "front": "en vaffel",
+      "back": "a waffel"
+    },
+    {
+      "id": "de4cc81f-25b8-4bc8-bc4b-7b83bf42c25a",
+      "front": "kopp",
+      "back": "cup"
+    },
+    {
+      "id": "3cff6187-29ce-4767-8f2b-da6d36260ea2",
+      "front": "sk\u00E5l",
+      "back": "saucer, bowl"
+    },
+    {
+      "id": "d16a8952-c26f-4d5f-a287-a1ec079c7692",
+      "front": "tallerkan",
+      "back": "plate"
+    },
+    {
+      "id": "30718c5c-7450-4d53-a0ca-233bfb4ae656",
+      "front": "gaffel",
+      "back": "fork"
+    },
+    {
+      "id": "3277c508-2f83-46d4-9591-367aeac3c45a",
+      "front": "kniv",
+      "back": "knife"
+    },
+    {
+      "id": "ee5907ec-07e3-4b14-bc33-c6161e708c70",
+      "front": "skje",
+      "back": "spoon"
+    },
+    {
+      "id": "8ec5547b-ebbc-4c4f-85a6-bf0e5d364427",
+      "front": "glass",
+      "back": "glass"
+    },
+    {
+      "id": "e7962200-566f-4ddf-a6de-40ca8e7558a3",
+      "front": "krukke",
+      "back": "jar"
+    },
+    {
+      "id": "d3b30d9c-2b52-4804-8940-472420e17225",
+      "front": "kanne",
+      "back": "jug"
+    },
+    {
+      "id": "3aea498c-f50b-4350-a0a5-22dab790f4bb",
+      "front": "skekepanne",
+      "back": "frying pan"
+    },
+    {
+      "id": "3ba83dce-2140-4bb6-a6f4-a40f5f1c8704",
+      "front": "gryte",
+      "back": "pot"
+    },
+    {
+      "id": "0a38b1b5-9d49-4142-8e2a-c217d4886ed3",
+      "front": "fat",
+      "back": "pan"
+    },
+    {
+      "id": "874d5783-8afe-44e2-83ea-12e2690b82d2",
+      "front": "flaske",
+      "back": "bottle"
+    },
+    {
+      "id": "3f8ab10f-4833-4bb3-9cd3-cccfc98a4083",
+      "front": "sitonpresse",
+      "back": "lemon squeezer"
+    },
+    {
+      "id": "eee9c275-82ef-414c-adc0-2ecfa93c2c31",
+      "front": "oppvask",
+      "back": "sink"
+    },
+    {
+      "id": "65e4b279-f773-440e-b242-355550daa95d",
+      "front": "kj\u00F8kken",
+      "back": "kitchen"
+    },
+    {
+      "id": "4d23e68d-0694-4ed3-9ff1-9175bd927748",
+      "front": "seng",
+      "back": "bed"
+    },
+    {
+      "id": "b82c8eb7-6285-4bb1-8100-a7c792c45260",
+      "front": "soverv\u00E6else",
+      "back": "bedroom"
+    },
+    {
+      "id": "7aaba725-2b9f-4aa5-891d-ebe867ba1fdf",
+      "front": "bad",
+      "back": "bathroom"
+    },
+    {
+      "id": "d85d689c-3d2a-4c22-987f-c9456faa4274",
+      "front": "lampe",
+      "back": "lamp"
+    },
+    {
+      "id": "55f75120-6f38-44e8-b4c5-4abea9a68c9e",
+      "front": "spisestue",
+      "back": "dining room"
+    },
+    {
+      "id": "7d69b49e-789f-4cf2-a82a-cb70f46881ab",
+      "front": "bord",
+      "back": "table"
+    },
+    {
+      "id": "d490ed0f-551f-49ad-ae61-337c084271cd",
+      "front": "gulv",
+      "back": "floor"
+    },
+    {
+      "id": "21182269-9389-406c-9915-bbda2a7e39a7",
+      "front": "stol",
+      "back": "chair"
+    },
+    {
+      "id": "54d36f7c-180b-426d-aecc-6e004d3e2f72",
+      "front": "gressplen",
+      "back": "lawn"
+    },
+    {
+      "id": "b100093f-c517-422f-88c9-84437bc95583",
+      "front": "fuglebad",
+      "back": "birdbath"
+    },
+    {
+      "id": "97046db4-6b02-4f85-912b-d449faebecb6",
+      "front": "trapp",
+      "back": "stairs"
+    },
+    {
+      "id": "c39f2bd6-a2b5-4341-86e8-c070e8b43c45",
+      "front": "d\u00F8rmatte",
+      "back": "doormatt"
+    },
+    {
+      "id": "a826da89-b446-46f3-9f6c-1000df559f01",
+      "front": "byrter",
+      "back": "light switch"
+    },
+    {
+      "id": "65e9a544-f015-4b3c-b5ad-5eb01c8bd4fe",
+      "front": "fjernsynsapparat",
+      "back": "Television set"
+    },
+    {
+      "id": "8cd20d01-4c2a-4ba8-afab-898708a0b6b5",
+      "front": "k\u00F8yeseng",
+      "back": "bunkbed"
+    },
+    {
+      "id": "cc777bb0-bc31-4d20-acc6-588439a72e0a",
+      "front": "bilde",
+      "back": "picture"
+    },
+    {
+      "id": "4290d155-e09c-45be-88fc-07babb9e21e8",
+      "front": "dagligstue",
+      "back": "living room"
+    },
+    {
+      "id": "f830df2e-091f-41a4-90ce-d0e7d53aeeb5",
+      "front": "lys",
+      "back": "candle"
+    },
+    {
+      "id": "1cf8ebc8-d455-4b56-82fb-33990120a894",
+      "front": "telefon",
+      "back": "telephone"
+    },
+    {
+      "id": "bf2c1747-6c86-43e2-9074-23a4d1606fba",
+      "front": "sofa",
+      "back": "sofa"
+    },
+    {
+      "id": "9c9c381c-0a7e-45fa-a6c4-bf54d3c5e21b",
+      "front": "teppe",
+      "back": "rug"
+    },
+    {
+      "id": "50d71c71-108f-46f8-8f50-96960c0ce877",
+      "front": "vindu",
+      "back": "window"
+    },
+    {
+      "id": "afa30617-04ac-46bd-bdad-8765e165b3cf",
+      "front": "ugle",
+      "back": "owl"
+    },
+    {
+      "id": "5072ad5f-b01f-4969-8177-1e5c46ca667e",
+      "front": "r\u00F8yk",
+      "back": "smoke"
+    }
+  ]
+}

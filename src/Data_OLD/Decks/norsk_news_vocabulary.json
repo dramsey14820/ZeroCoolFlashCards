@@ -1,0 +1,211 @@
+{
+  "id": "norsk_news_vocabulary",
+  "title": "Norsk News Vocabulary",
+  "cards": [
+    {
+      "id": "07c42d07-f278-4184-b2ee-2a8d05502e1a",
+      "front": "nedb\u00F8rsmengdar",
+      "back": "rainfall"
+    },
+    {
+      "id": "3390ba42-5df8-4cea-8006-f6d2f0284a3b",
+      "front": "f\u00F8lg",
+      "back": "follow"
+    },
+    {
+      "id": "456d778c-15f7-4a60-91fd-6e013b5293e0",
+      "front": "Det er ventet",
+      "back": "It is expected"
+    },
+    {
+      "id": "27716546-cf48-4c34-9ec6-dfc94f5fd5a0",
+      "front": "store",
+      "back": "big (great,large)"
+    },
+    {
+      "id": "c1fcf011-0a88-4ab6-98c5-cb44bab936b6",
+      "front": "over",
+      "back": "above"
+    },
+    {
+      "id": "c3471a9d-805c-45d3-8061-f957fe1a68ca",
+      "front": "helgen",
+      "back": "weekend"
+    },
+    {
+      "id": "c365b70d-faca-4446-8ea5-b1b673f4c9a1",
+      "front": "med",
+      "back": "with"
+    },
+    {
+      "id": "67144c36-d9bd-4800-b13f-d681d29c85d8",
+      "front": "forrige",
+      "back": "previous"
+    },
+    {
+      "id": "77cd5565-5335-47f3-bcf1-e38091a5ccb0",
+      "front": "flom",
+      "back": "flood"
+    },
+    {
+      "id": "ee10b425-0248-48a9-9aec-6bfbebd37c46",
+      "front": "ferskt i minne",
+      "back": "fresh in memory"
+    },
+    {
+      "id": "393d96b9-d0f7-431f-b607-31a9f3b16019",
+      "front": "med forrige flom i minne",
+      "back": "with the previous flood in memory"
+    },
+    {
+      "id": "fac6296d-fb57-4f78-9899-d37a3f8d0fed",
+      "front": "noen",
+      "back": "some"
+    },
+    {
+      "id": "bbaa7142-56dc-425a-b4c0-db486eaea700",
+      "front": "b\u00F8nder",
+      "back": "farmers"
+    },
+    {
+      "id": "b5cfd03b-ba60-4660-8b46-4d3bf9a119a7",
+      "front": "har blitt",
+      "back": "have become"
+    },
+    {
+      "id": "f58dedc2-d926-4bed-8a7b-cd74efefc2e7",
+      "front": "s\u00E5 sinte",
+      "back": "so angry"
+    },
+    {
+      "id": "69b2fc63-96b3-4981-9d01-cbfec36267fa",
+      "front": "at de har",
+      "back": "that they have"
+    },
+    {
+      "id": "d8a99df8-6c83-45be-82eb-c459213dce36",
+      "front": "sluttet",
+      "back": "stopped"
+    },
+    {
+      "id": "4f78b72c-7060-4fb6-bcf5-8d1ed6967f12",
+      "front": "\u00E5 bruke",
+      "back": "using(to use)"
+    },
+    {
+      "id": "6bfc09d9-84dc-483e-bc45-c12719cff7c2",
+      "front": "Klauvskj\u00E6rer",
+      "back": "clauv shears"
+    },
+    {
+      "id": "e97e3623-e171-4915-9fa4-be4bed1587a7",
+      "front": "tungt",
+      "back": "hard"
+    },
+    {
+      "id": "91685e5e-8aee-49c4-9e3f-3378adfe81b1",
+      "front": "\u00E5 p\u00E5vise",
+      "back": "to detect"
+    },
+    {
+      "id": "f03ebb39-b1d4-40e4-82e9-ad5133c1165f",
+      "front": "digital",
+      "back": "digital"
+    },
+    {
+      "id": "551d0c89-27c2-463b-839c-6b5b4b7eca36",
+      "front": "dermatitt",
+      "back": "dermatitis"
+    },
+    {
+      "id": "46dd16b9-ad67-4daf-8daf-819093ecf42a",
+      "front": "er en av",
+      "back": "is one of"
+    },
+    {
+      "id": "deaddb3e-ba3d-4d53-8aea-d3f3e206fd51",
+      "front": "viktigste",
+      "back": "Main ( most important)"
+    },
+    {
+      "id": "14b1ed2c-4121-4865-bf76-a05426a6829e",
+      "front": "tiltakene",
+      "back": "measures"
+    },
+    {
+      "id": "458162e0-02e2-4c87-af5b-be6258e5e1dd",
+      "front": "melkeprodusent",
+      "back": "milk producer"
+    },
+    {
+      "id": "3763e486-8aa7-4631-b56b-50a79ed5d31e",
+      "front": "kan gj\u00F8re",
+      "back": "can do"
+    },
+    {
+      "id": "50a9594a-2c91-4a2d-b899-5e1a25146be0",
+      "front": "avdekke",
+      "back": "uncover"
+    },
+    {
+      "id": "1114d1ab-501f-4caa-9378-81c9a7a01a49",
+      "front": "begrense",
+      "back": "limit"
+    },
+    {
+      "id": "137541eb-298b-4fef-a133-6baeb526d990",
+      "front": "klauvsykdommer",
+      "back": "clove disease"
+    },
+    {
+      "id": "f81b3afe-097c-4253-92cb-6507cd222fc8",
+      "front": "besetningen sin",
+      "back": "their heard"
+    },
+    {
+      "id": "5952db95-e56f-4568-bac6-7fb67323b21e",
+      "front": "derfore",
+      "back": "therefore"
+    },
+    {
+      "id": "1ee253ba-dd31-4c53-a5b4-15a243f7018c",
+      "front": "alvorlig",
+      "back": "serious"
+    },
+    {
+      "id": "1f40a76d-3d75-453d-aac1-ac7d2c8d4554",
+      "front": "hvis",
+      "back": "if"
+    },
+    {
+      "id": "461eb901-1adf-4d9a-9344-d462fc963057",
+      "front": "enkeltprodusenter",
+      "back": "single producer"
+    },
+    {
+      "id": "0aa9c4e5-7eb3-4a6e-ba8f-fe9d02d17e1c",
+      "front": "kjenner",
+      "back": "knows"
+    },
+    {
+      "id": "690efe5d-e983-416d-a817-f494dc6e379b",
+      "front": "enkeltst\u00E5ende",
+      "back": "separate ( single one )"
+    },
+    {
+      "id": "8b142548-f2bc-4b17-a436-d046da1af243",
+      "front": "der",
+      "back": "where"
+    },
+    {
+      "id": "3b926d0f-140f-4451-ac51-e475268a4e42",
+      "front": "har truet",
+      "back": "have threatened"
+    },
+    {
+      "id": "f0b540e9-39cd-42f6-ae7b-53d7e801a52d",
+      "front": "landbruk",
+      "back": "agriculture"
+    }
+  ]
+}
