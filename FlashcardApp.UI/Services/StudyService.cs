@@ -2,9 +2,15 @@ using System.Text.Json;
 using FlashcardApp.Models;
 namespace FlashcardApp.Services;
 
-public class StudyService(IWebHostEnvironment env) {
-    private readonly string _decksPath = Path.Combine(env.ContentRootPath, "Data", "Decks");
-    private readonly string _reviewDecksPath = Path.Combine(env.ContentRootPath, "Data", "ReviewDecks");
+public class StudyService {
+    private readonly string _decksPath;
+    private readonly string _reviewDecksPath;
+    public StudyService(string dataRootPath) {
+        _decksPath = Path.Combine(dataRootPath, "Decks");
+        _reviewDecksPath = Path.Combine(dataRootPath, "ReviewDecks");
+        Directory.CreateDirectory(_decksPath);
+        Directory.CreateDirectory(_reviewDecksPath);
+    }
     private readonly JsonSerializerOptions _jsonOptions = new() { WriteIndented = true };
 
     public async Task<List<Deck>> GetAllDecksAsync() {

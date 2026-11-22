@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="FlashcardApp.Maui/FlashcardApp.Maui.csproj" />
+  <Project Path="FlashcardApp.UI/FlashcardApp.UI.csproj" />
   <Project Path="src/FlashcardApp.csproj" />
 </Solution>

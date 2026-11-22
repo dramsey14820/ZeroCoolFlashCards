@@ -1,0 +1,100 @@
+@page "/study/{DeckId}"
+@inject StudyService StudyService
+@inject NavigationManager Navigation
+
+<div class="container py-4">
+    @if (_deck is null)
+    {
+        <p>Loading deck...</p>
+    }
+    else if (_cardIndex >= _deck.Cards.Count)
+    {
+        <div class="text-center py-5">
+            <h2>Study complete</h2>
+            <button class="btn btn-primary mt-3" @onclick="BackToDecks">Back to decks</button>
+        </div>
+    }
+    else
+    {
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <button class="btn btn-outline-secondary" @onclick="BackToDecks">Back</button>
+            <span>Card @(_cardIndex + 1) of @_deck.Cards.Count</span>
+            <button class="btn btn-outline-secondary" @onclick="SkipCard">Skip</button>
+        </div>
+
+        <button class="card w-100 text-center p-4 border shadow-sm flashcard" @onclick="Reveal">
+            <div class="fw-bold fs-4">@_deck.Cards[_cardIndex].Front</div>
+            @if (_revealed)
+            {
+                <hr />
+                <div class="fs-5 text-secondary">@_deck.Cards[_cardIndex].Back</div>
+            }
+        </button>
+
+        @if (_revealed)
+        {
+            <div class="text-center mt-4">
+                <h4>Rate your understanding</h4>
+                <div class="d-flex justify-content-center gap-2 mt-3">
+                    @for (var rating = 1; rating <= 5; rating++)
+                    {
+                        var selectedRating = rating;
+                        <button class="btn btn-outline-warning fs-4" @onclick="() => Rate(selectedRating)">@selectedRating</button>
+                    }
+                </div>
+            </div>
+        }
+    }
+</div>
+
+<style>
+    .flashcard { min-height: 220px; background: white; }
+</style>
+
+@code {
+    [Parameter]
+    public string DeckId { get; set; } = "";
+
+    private Deck? _deck;
+    private int _cardIndex;
+    private bool _revealed;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        _deck = await StudyService.GetDeckAsync(DeckId);
+        _cardIndex = 0;
+        _revealed = false;
+    }
+
+    private void Reveal()
+    {
+        _revealed = true;
+    }
+
+    private void SkipCard()
+    {
+        _cardIndex++;
+        _revealed = false;
+    }
+
+    private async Task Rate(int rating)
+    {
+        if (_deck is null)
+        {
+            return;
+        }
+
+        await StudyService.ProcessRatingAsync(
+            _deck.Id,
+            _deck.Cards[_cardIndex].Id,
+            rating,
+            null);
+        _cardIndex++;
+        _revealed = false;
+    }
+
+    private void BackToDecks()
+    {
+        Navigation.NavigateTo("/decks");
+    }
+}
