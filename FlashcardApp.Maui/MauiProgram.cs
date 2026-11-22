@@ -1,4 +1,5 @@
 ﻿using FlashcardApp.Services;
+using Microsoft.AspNetCore.Components.WebView.Maui;
 using Microsoft.Extensions.Logging;
 
 namespace FlashcardApp.Maui;
@@ -18,7 +19,8 @@ public static class MauiProgram
 		builder.Services.AddMauiBlazorWebView();
 
 		var dataRoot = Path.Combine(FileSystem.AppDataDirectory, "Data");
-		SeedBundledData(dataRoot);
+		var bundledDataRoot = Path.Combine(AppContext.BaseDirectory, "Data");
+		SeedBundledData(bundledDataRoot, dataRoot);
 		builder.Services.AddSingleton(new StudyService(dataRoot));
 
 #if DEBUG
@@ -29,34 +31,30 @@ public static class MauiProgram
 		return builder.Build();
 	}
 
-	private static void SeedBundledData(string dataRoot)
+	private static void SeedBundledData(string sourceRoot, string destinationRoot)
 	{
-		var assembly = typeof(MauiProgram).Assembly;
-		foreach (var resourceName in assembly.GetManifestResourceNames())
+		if (!Directory.Exists(sourceRoot))
 		{
-			var normalizedName = resourceName.Replace('\\', '/');
-			var dataPrefix = "Data/";
-			var prefixIndex = normalizedName.IndexOf(dataPrefix, StringComparison.OrdinalIgnoreCase);
-			if (prefixIndex < 0)
-			{
-				continue;
-			}
+			throw new DirectoryNotFoundException($"Installed flashcard data directory was not found: {sourceRoot}");
+		}
 
-			var relativePath = normalizedName[(prefixIndex + dataPrefix.Length)..];
-			var destination = Path.Combine(dataRoot, relativePath.Replace('/', Path.DirectorySeparatorChar));
+		var files = Directory.GetFiles(sourceRoot, "*.json", SearchOption.AllDirectories);
+		if (files.Length == 0)
+		{
+			throw new InvalidDataException($"No flashcard JSON files were found in: {sourceRoot}");
+		}
+
+		foreach (var sourcePath in files)
+		{
+			var relativePath = Path.GetRelativePath(sourceRoot, sourcePath);
+			var destination = Path.Combine(destinationRoot, relativePath);
 			if (File.Exists(destination))
 			{
 				continue;
 			}
 
 			Directory.CreateDirectory(Path.GetDirectoryName(destination)!);
-			using var source = assembly.GetManifestResourceStream(resourceName);
-			if (source is null)
-			{
-				continue;
-			}
-			using var destinationStream = File.Create(destination);
-			source.CopyTo(destinationStream);
+			File.Copy(sourcePath, destination);
 		}
 	}
 }

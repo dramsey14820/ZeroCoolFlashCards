@@ -68,7 +68,10 @@
     </ItemGroup>
 
     <ItemGroup>
-        <EmbeddedResource Include="..\src\Data\**\*.json" LogicalName="Data\%(RecursiveDir)%(Filename)%(Extension)" />
+        <Content Include="..\src\Data\**\*.json"
+                 Link="Data\%(RecursiveDir)%(Filename)%(Extension)"
+                 CopyToOutputDirectory="PreserveNewest"
+                 CopyToPublishDirectory="Never" />
         <ProjectReference Include="..\FlashcardApp.UI\FlashcardApp.UI.csproj" />
     </ItemGroup>
 

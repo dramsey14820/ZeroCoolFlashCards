@@ -1,0 +1,30 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package Id="ZeroCoolFlashCards" Name="ZeroCool Flashcards" Manufacturer="ZeroCoolFlashCards" Version="1.0.12.0" Scope="perMachine">
+	<MajorUpgrade DowngradeErrorMessage="A newer version of ZeroCool Flashcards is already installed." />
+	<MediaTemplate EmbedCab="yes" />
+
+	<StandardDirectory Id="ProgramFiles64Folder">
+	  <Directory Id="INSTALLFOLDER" Name="ZeroCool Flashcards" />
+	</StandardDirectory>
+
+	<StandardDirectory Id="ProgramMenuFolder">
+	  <Directory Id="AppStartMenuFolder" Name="ZeroCool Flashcards" />
+	</StandardDirectory>
+
+	<Feature Id="MainFeature" Title="ZeroCool Flashcards" Level="1">
+	  <Files Include="..\FlashcardApp.Maui\bin\Release\net10.0-windows10.0.19041.0\win-x64\publish\**" Directory="INSTALLFOLDER">
+		<Exclude Files="..\FlashcardApp.Maui\bin\Release\net10.0-windows10.0.19041.0\win-x64\publish\**\*.mui" />
+		<Exclude Files="..\FlashcardApp.Maui\bin\Release\net10.0-windows10.0.19041.0\win-x64\publish\FlashcardApp.Maui.exe.WebView2\**" />
+	  </Files>
+	  <Files Include="..\FlashcardApp.Maui\bin\Release\net10.0-windows10.0.19041.0\win-x64\publish\en-us\**" Directory="INSTALLFOLDER" Subdirectory="en-us" />
+	  <Files Include="..\src\Data\**\*.json" Directory="INSTALLFOLDER" Subdirectory="Data" />
+	  <ComponentRef Id="StartMenuShortcut" />
+	</Feature>
+
+	<Component Id="StartMenuShortcut" Directory="AppStartMenuFolder">
+	  <Shortcut Id="StartMenuShortcut" Name="ZeroCool Flashcards" Target="[INSTALLFOLDER]FlashcardApp.Maui.exe" WorkingDirectory="INSTALLFOLDER" />
+	  <RemoveFolder Id="RemoveStartMenuFolder" On="uninstall" />
+	  <RegistryValue Root="HKCU" Key="Software\ZeroCoolFlashCards" Name="Installed" Type="integer" Value="1" KeyPath="yes" />
+	</Component>
+  </Package>
+</Wix>
