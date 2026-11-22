@@ -11,12 +11,14 @@ public partial class App : Application
 	{
 		try
 		{
+#if WINDOWS
 			var webViewDataFolder = Path.Combine(
 				Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
 				"ZeroCoolFlashCards",
 				"WebView2");
 			Directory.CreateDirectory(webViewDataFolder);
 			Environment.SetEnvironmentVariable("WEBVIEW2_USER_DATA_FOLDER", webViewDataFolder, EnvironmentVariableTarget.Process);
+#endif
 
 			return new Window(new MainPage()) { Title = "FlashcardApp.Maui" };
 		}

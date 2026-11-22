@@ -4,9 +4,9 @@ namespace FlashcardApp.Maui;
 
 public partial class MainPage : ContentPage
 {
+#if WINDOWS
 	private string? _webViewProfilePath;
 	private bool _blazorStartupCheckStarted;
-#if WINDOWS
 	private Microsoft.UI.Xaml.Controls.WebView2? _observedWebView;
 #endif
 
