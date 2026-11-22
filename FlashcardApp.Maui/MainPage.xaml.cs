@@ -125,9 +125,9 @@ public partial class MainPage : ContentPage
 
 	private void OnBlazorWebViewInitialized(object? sender, BlazorWebViewInitializedEventArgs e)
 	{
+#if WINDOWS
 		SetStartupStatus("WebView initialized; loading Blazor...");
 
-#if WINDOWS
 		if (e.WebView is Microsoft.UI.Xaml.Controls.WebView2 webView)
 		{
 			if (webView.CoreWebView2 is not null)
